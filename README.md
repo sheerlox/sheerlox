@@ -1,2 +1,2 @@
-[<img src="https://github-readme-stats.vercel.app/api?username=sheerlox&count_private=true&show_icons=true&hide=stars,contribs" alt="Sheerlox's Github stats" height="150px" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=sheerlox&count_private=true&show_icons=true&hide=stars" alt="Sheerlox's Github stats" height="150px" />](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheerlox&layout=compact" alt="Sheerlox's Most used languages" height="150px" />](https://github.com/anuraghazra/github-readme-stats)
