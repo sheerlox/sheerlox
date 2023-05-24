@@ -11,8 +11,8 @@
 
 #### ⚡ Recent Pull Requests
 
+- [feat: import type definitions from @types/cron](https://github.com/kelektiv/node-cron/pull/669) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (today)
 - [feat: UNIX standard alignments](https://github.com/kelektiv/node-cron/pull/667) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
 - [fix: don&#39;t start job in setTime if it wasn&#39;t running](https://github.com/kelektiv/node-cron/pull/661) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [feat: implement manual restart for ts watchmode](https://github.com/nestjs/nest-cli/pull/2011) on [nestjs/nest-cli](https://github.com/nestjs/nest-cli) (1 month ago)
 - [chore: fix gitignore](https://github.com/brijeshbhakta30/node-express-mongoose-starter/pull/14) on [brijeshbhakta30/node-express-mongoose-starter](https://github.com/brijeshbhakta30/node-express-mongoose-starter) (2 years ago)
-- [fix: redudant tooltip &#34;show on ledger&#34;](https://github.com/harmony-one/staking-dashboard/pull/581) on [harmony-one/staking-dashboard](https://github.com/harmony-one/staking-dashboard) (2 years ago)
