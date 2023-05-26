@@ -2,10 +2,10 @@
     <b>Welcome to my GitHub profile!</b>
     <br /><br />
     <a href="https://www.linkedin.com/in/pierre-cavin" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://stackoverflow.com/users/5567941/pierre-c" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Stackoverflow-818081?style=flat-square&logo=StackOverflow" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Stackoverflow-9a9c9f?style=flat-square&logo=StackOverflow" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/sheerlox" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LeetCode-010001?style=flat-square&logo=LeetCode" alt="LeetCode">
@@ -26,10 +26,10 @@
 #### 🫶 Recent contributions
 
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
-- [insurgent-lab/conventional-changelog-insurgent](https://github.com/insurgent-lab/conventional-changelog-insurgent) -  (today)
-- [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 day ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 day ago)
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (1 month ago)
+- [sheerlox/adb-standalone-build](https://github.com/sheerlox/adb-standalone-build) - adb (Android Debug Bridge) standalone build suite (3 months ago)
 
 #### ⚡ Recent Pull Requests
 
