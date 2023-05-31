@@ -13,12 +13,12 @@
 </p>
 <br />
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sheerlox&count_private=true&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
+  <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
+    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&count_private=true&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheerlox&layout=compact" alt="Pierre Cavin's Most used languages" height="175px" />
+  <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
+    <img src="https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&layout=compact" alt="Pierre Cavin's Most used languages" height="175px" />
   </a>
 </div>
 <br />
