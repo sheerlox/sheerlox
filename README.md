@@ -25,15 +25,15 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 day ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 days ago)
 - [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 week ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (2 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [chore: repository overhaul](https://github.com/insurgent-lab/commitlint-config/pull/1) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (1 day ago)
+- [chore: repository overhaul](https://github.com/insurgent-lab/commitlint-config/pull/1) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (2 days ago)
 - [chore: repository overhaul](https://github.com/insurgent-lab/conventional-changelog-preset/pull/1) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (1 week ago)
 - [build(npm): ship type definitions with releases](https://github.com/kelektiv/node-cron/pull/670) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [feat: import type definitions from @types/cron](https://github.com/kelektiv/node-cron/pull/669) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
