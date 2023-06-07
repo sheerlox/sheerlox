@@ -32,3 +32,5 @@
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+![](https://hit.yhype.me/github/profile?user_id=11234273)
