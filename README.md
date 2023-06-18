@@ -37,6 +37,6 @@
 - [chore: repository overhaul](https://github.com/insurgent-lab/conventional-changelog-preset/pull/1) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (3 weeks ago)
 - [build(npm): ship type definitions with releases](https://github.com/kelektiv/node-cron/pull/670) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
 - [feat: import type definitions from @types/cron](https://github.com/kelektiv/node-cron/pull/669) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
-- [feat: UNIX standard alignments](https://github.com/kelektiv/node-cron/pull/667) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [feat: UNIX standard alignments](https://github.com/kelektiv/node-cron/pull/667) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
