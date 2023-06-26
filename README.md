@@ -25,18 +25,18 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) -  (today)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (today)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (6 days ago)
+- [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) -  (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 day ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
 - [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 month ago)
 
 #### ⚡ Recent Pull Requests
 
-- [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (today)
-- [fix permissions for sticky-pull-request-comment@v2](https://github.com/sheerlox/action-semantic-pull-request/pull/1) on [sheerlox/action-semantic-pull-request](https://github.com/sheerlox/action-semantic-pull-request) (today)
-- [update readme](https://github.com/sheerlox/semantic-pull-request-test/pull/2) on [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) (today)
-- [update readme](https://github.com/sheerlox/semantic-pull-request-test/pull/1) on [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) (today)
-- [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (today)
+- [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (1 day ago)
+- [fix permissions for sticky-pull-request-comment@v2](https://github.com/sheerlox/action-semantic-pull-request/pull/1) on [sheerlox/action-semantic-pull-request](https://github.com/sheerlox/action-semantic-pull-request) (1 day ago)
+- [update readme](https://github.com/sheerlox/semantic-pull-request-test/pull/2) on [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) (1 day ago)
+- [update readme](https://github.com/sheerlox/semantic-pull-request-test/pull/1) on [sheerlox/semantic-pull-request-test](https://github.com/sheerlox/semantic-pull-request-test) (1 day ago)
+- [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
