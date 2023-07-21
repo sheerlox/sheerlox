@@ -25,18 +25,18 @@
 
 #### 🫶 Recent contributions
 
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (3 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
 - [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 month ago)
 
 #### ⚡ Recent Pull Requests
 
+- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
 - [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (3 weeks ago)
 - [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
-- [chore: repository overhaul](https://github.com/insurgent-lab/commitlint-config/pull/1) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (1 month ago)
-- [chore: repository overhaul](https://github.com/insurgent-lab/conventional-changelog-preset/pull/1) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (1 month ago)
-- [build(npm): ship type definitions with releases](https://github.com/kelektiv/node-cron/pull/670) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
