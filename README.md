@@ -25,17 +25,17 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 weeks ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (4 weeks ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
-- [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (1 month ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (4 weeks ago)
 
 #### ⚡ Recent Pull Requests
 
-- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
 - [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (4 weeks ago)
 - [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
 
