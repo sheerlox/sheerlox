@@ -25,18 +25,18 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 day ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 days ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (5 days ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (4 weeks ago)
 
 #### ⚡ Recent Pull Requests
 
-- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (4 weeks ago)
-- [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 day ago)
+- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (1 day ago)
+- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
