@@ -33,10 +33,10 @@
 
 #### ⚡ Recent Pull Requests
 
-- [perf(npm): remove useless files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (3 days ago)
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (6 days ago)
-- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (6 days ago)
-- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [perf(npm): remove useless files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (4 days ago)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 week ago)
+- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (1 week ago)
+- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
