@@ -25,7 +25,7 @@
 
 #### 🫶 Recent contributions
 
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (4 days ago)
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (5 days ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
@@ -34,9 +34,9 @@
 #### ⚡ Recent Pull Requests
 
 - [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (1 week ago)
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 week ago)
-- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (1 week ago)
-- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 weeks ago)
+- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (2 weeks ago)
+- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
