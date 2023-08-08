@@ -24,11 +24,16 @@
 <br />
 
 #### 🫶 Recent contributions
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### ⚡ Recent Pull Requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+#### ⭐ Recent stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
