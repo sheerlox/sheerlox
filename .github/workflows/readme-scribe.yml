@@ -21,6 +21,13 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/PREVIEW.md.tpl"
+          writeTo: "PREVIEW.md"
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
