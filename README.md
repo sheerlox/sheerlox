@@ -25,8 +25,8 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (today)
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (6 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
@@ -38,7 +38,7 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (today)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 day ago)
 - [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (1 week ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 weeks ago)
 - [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (2 weeks ago)
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent stars
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (6 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 week ago)
 - [semantic-release/.github](https://github.com/semantic-release/.github) - Common configuration for the semantic-release organization (2 weeks ago)
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review (1 month ago)
