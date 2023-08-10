@@ -25,7 +25,7 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 weeks ago)
@@ -38,22 +38,22 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 day ago)
-- [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (1 week ago)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 days ago)
+- [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (2 weeks ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 weeks ago)
 - [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (2 weeks ago)
 - [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
-- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
-- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
-- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
+- [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
 - [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (1 month ago)
 - [ci: setup conventional commits &amp; release automation](https://github.com/kelektiv/node-cron/pull/673) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (6 days ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 week ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (1 week ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
 - [semantic-release/.github](https://github.com/semantic-release/.github) - Common configuration for the semantic-release organization (2 weeks ago)
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review (1 month ago)
 - [rlrml/rlrml](https://github.com/rlrml/rlrml) - Rocket League Replay Machine Learning (1 month ago)
