@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
-    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&count_private=true&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
+    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
   </a>
   
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
@@ -51,13 +51,13 @@
 
 #### ⭐ Recent stars
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (today)
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (today)
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (today)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (today)
+- [anhtho-lago/awesome-opensource-company](https://github.com/anhtho-lago/awesome-opensource-company) (today)
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (1 week ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
-- [semantic-release/.github](https://github.com/semantic-release/.github) - Common configuration for the semantic-release organization (2 weeks ago)
-- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review (1 month ago)
-- [rlrml/rlrml](https://github.com/rlrml/rlrml) - Rocket League Replay Machine Learning (1 month ago)
-- [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.  (2 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 months ago)
-- [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source (2 months ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (2 months ago)
