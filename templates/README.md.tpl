@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
-    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&count_private=true&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
+    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
   </a>
   
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
