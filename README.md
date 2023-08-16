@@ -25,9 +25,9 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (today)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (4 days ago)
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 week ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (5 days ago)
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (3 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (3 weeks ago)
@@ -38,7 +38,8 @@
 
 #### ⚡ Recent Pull Requests
 
-- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 week ago)
 - [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (2 weeks ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (3 weeks ago)
@@ -47,19 +48,18 @@
 - [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
 - [chore: update default branch name](https://github.com/kelektiv/node-cron/pull/678) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
 - [ci: add support for beta &amp; maintenance releases](https://github.com/kelektiv/node-cron/pull/677) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
-- [ci: fix permissions for sticky-pull-request-comment](https://github.com/amannn/action-semantic-pull-request/pull/235) on [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (3 days ago)
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (3 days ago)
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (3 days ago)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (3 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (3 days ago)
-- [anhtho-lago/awesome-opensource-company](https://github.com/anhtho-lago/awesome-opensource-company) (3 days ago)
-- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (3 days ago)
+- [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 day ago)
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (4 days ago)
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (4 days ago)
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (4 days ago)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (4 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (4 days ago)
+- [anhtho-lago/awesome-opensource-company](https://github.com/anhtho-lago/awesome-opensource-company) (4 days ago)
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (4 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux &#39;net top&#39; tool (1 week ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
