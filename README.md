@@ -25,7 +25,7 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (5 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 week ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (4 weeks ago)
@@ -34,24 +34,24 @@
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (1 month ago)
 - [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (2 months ago)
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (4 months ago)
-- [sheerlox/adb-standalone-build](https://github.com/sheerlox/adb-standalone-build) - adb (Android Debug Bridge) standalone build suite (5 months ago)
+- [sheerlox/adb-standalone-build](https://github.com/sheerlox/adb-standalone-build) - adb (Android Debug Bridge) standalone build suite (6 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 week ago)
 - [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (3 weeks ago)
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (3 weeks ago)
-- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (3 weeks ago)
-- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (4 weeks ago)
+- [feat: remove cron - not needed as of 2.4.0](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66164) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (4 weeks ago)
+- [ci(renovate): configure renovate](https://github.com/kelektiv/node-cron/pull/683) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
 - [ci: fix duplicate GitHub actions](https://github.com/kelektiv/node-cron/pull/679) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (5 days ago)
+- [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (6 days ago)
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (1 week ago)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (1 week ago)
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (1 week ago)
