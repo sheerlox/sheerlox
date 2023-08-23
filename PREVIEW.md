@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/StackOverflow-9a9c9f?style=flat-square&logo=StackOverflow" alt="StackOverflow">
     </a>
     <a href="https://exercism.org/profiles/sheerlox" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Exercism-6401fe?style=flat-square&logo=Exercism" alt="Exercism">
+        <img src="https://img.shields.io/badge/Exercism-7600fe?style=flat-square&logo=Exercism" alt="Exercism">
     </a>
     <a href="https://leetcode.com/sheerlox" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LeetCode-010001?style=flat-square&logo=LeetCode" alt="LeetCode">
