@@ -29,15 +29,15 @@
 #### 🫶 Recent contributions
 
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 week ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (3 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 month ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 month ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 month ago)
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (1 month ago)
-- [sheerlox/sheerlox.github.io](https://github.com/sheerlox/sheerlox.github.io) -  (3 months ago)
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (2 months ago)
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (4 months ago)
+- [sheerlox/adb-standalone-build](https://github.com/sheerlox/adb-standalone-build) - adb (Android Debug Bridge) standalone build suite (6 months ago)
 
 #### ⚡ Recent Pull Requests
 
@@ -54,7 +54,9 @@
 
 #### ⭐ Recent stars
 
-- [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (3 days ago)
+- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (1 day ago)
+- [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (1 day ago)
+- [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (4 days ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 week ago)
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (1 week ago)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (1 week ago)
@@ -62,7 +64,5 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 week ago)
 - [anhtho-lago/awesome-opensource-company](https://github.com/anhtho-lago/awesome-opensource-company) (1 week ago)
-- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (1 week ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
