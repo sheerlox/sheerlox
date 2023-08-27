@@ -1,20 +1,30 @@
 <p align="center">
     <b>Welcome to my GitHub profile!</b>
     <br /><br />
-    <a href="https://www.linkedin.com/in/pierre-cavin" target="_blank" style="text-decoration: none;">
+    <a href="https://links.sherlox.io/github-linkedin" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://stackoverflow.com/users/5567941/pierre-c" target="_blank" style="text-decoration: none;">
+    <a href="https://links.sherlox.io/github-stackoverflow" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/StackOverflow-9a9c9f?style=flat-square&logo=StackOverflow" alt="StackOverflow">
     </a>
-    <a href="https://exercism.org/profiles/sheerlox" target="_blank" style="text-decoration: none;">
+    <a href="https://links.sherlox.io/github-exercism" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Exercism-7600fe?style=flat-square&logo=Exercism" alt="Exercism">
     </a>
-    <a href="https://leetcode.com/sheerlox" target="_blank" style="text-decoration: none;">
+    <a href="https://links.sherlox.io/github-leetcode" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LeetCode-010001?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
 <br />
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com" style="display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheerlox&theme=react&border=61dafb&hide_border=true" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
+  </a>
+
+  <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Now Playing" height="240px" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
     <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
@@ -22,10 +32,6 @@
   
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
     <img src="https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&size_weight=0.85&count_weight=0.15&layout=compact&exclude_repo=cerfi-notebooks,freqtrade-datas,sheerlox.github.io&hide=hcl,css,handlebars,smarty,html" alt="Pierre Cavin's Most used languages" height="175px" />
-  </a>
-
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&redirect=true" style="display: inline-block;">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Now Playing" height="175px" />
   </a>
 </div>
 <br />
@@ -58,15 +64,15 @@
 
 #### ⭐ Recent stars
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (today)
+- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (today)
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) (today)
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (today)
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (3 days ago)
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (3 days ago)
 - [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (6 days ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 week ago)
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (2 weeks ago)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (2 weeks ago)
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (2 weeks ago)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (2 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
-- [anhtho-lago/awesome-opensource-company](https://github.com/anhtho-lago/awesome-opensource-company) (2 weeks ago)
 
 ![](https://hit.yhype.me/github/profile?user_id=11234273)
