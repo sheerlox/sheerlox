@@ -1,6 +1,6 @@
+<h2 style="display:inline" align="center">🕵️ Hello there, welcome to my GitHub! 👋</h2>
+<br />
 <p align="center">
-    <b>Welcome to my GitHub profile!</b>
-    <br /><br />
     <a href="https://links.sherlox.io/github-linkedin" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -10,11 +10,23 @@
     <a href="https://links.sherlox.io/github-exercism" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Exercism-7600fe?style=flat-square&logo=Exercism" alt="Exercism">
     </a>
-    <a href="https://links.sherlox.io/github-leetcode" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LeetCode-010001?style=flat-square&logo=LeetCode" alt="LeetCode">
+    <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x48D089FE8FC01A4E7E88EE9611567DFABCB9256E" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/pgp-0x11567DFABCB9256E-313131?style=flat&labelColor=313131&color=313131" alt="PGP">
     </a>
 </p>
-<br />
+
+---
+
+<ul>
+    <li>🗣 Javascript/Typescript Lead Developer for 6+ years</li>
+    <li>🧑‍💻 strong inclination toward backend development</li>
+    <li>🧑‍🏫 starting as a technology university professor in September 2023</li>
+    <li>👷 in the early phases of co-founding a recruitment SaaS startup</li>
+    <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
+    <li>🫶 modest Open Source contributor & maintainer</li>
+</ul>
+
+---
 
 <div align="center">
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
@@ -25,7 +37,8 @@
     <img src="https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&size_weight=0.85&count_weight=0.15&layout=compact&exclude_repo=cerfi-notebooks,freqtrade-datas,sheerlox.github.io&hide=hcl,css,handlebars,smarty,html" alt="Pierre Cavin's Most used languages" height="175px" />
   </a>
 </div>
-<br />
+
+---
 
 #### 🫶 Recent contributions
 
