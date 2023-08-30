@@ -42,21 +42,21 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (3 weeks ago)
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (4 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 month ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 month ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 month ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (2 months ago)
-- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (4 months ago)
+- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (5 months ago)
 - [sheerlox/adb-standalone-build](https://github.com/sheerlox/adb-standalone-build) - adb (Android Debug Bridge) standalone build suite (6 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
-- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
+- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
+- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (3 weeks ago)
@@ -68,13 +68,13 @@
 
 #### ⭐ Recent stars
 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 days ago)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (2 days ago)
-- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (2 days ago)
-- [timburgan/timburgan](https://github.com/timburgan/timburgan) (2 days ago)
-- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (2 days ago)
-- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (5 days ago)
-- [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (5 days ago)
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (3 days ago)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (3 days ago)
+- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (3 days ago)
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) (3 days ago)
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (3 days ago)
+- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (6 days ago)
+- [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (6 days ago)
 - [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (1 week ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 weeks ago)
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (2 weeks ago)
