@@ -42,9 +42,9 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (6 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 week ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (3 weeks ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (4 weeks ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 month ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 month ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 month ago)
