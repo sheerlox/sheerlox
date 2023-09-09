@@ -43,7 +43,7 @@
 #### 🫶 Recent contributions
 
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 week ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 weeks ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (4 weeks ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 month ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 month ago)
@@ -77,7 +77,7 @@
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (2 weeks ago)
 - [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (2 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (3 weeks ago)
-- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (3 weeks ago)
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to assist with reviewing Open Source Software dependencies. (4 weeks ago)
 
 ---
 
