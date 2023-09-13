@@ -55,11 +55,11 @@
 
 #### ⚡ Recent Pull Requests
 
-- [refactor: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
-- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [refactor: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
+- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
 - [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
-- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 weeks ago)
+- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 month ago)
 - [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (1 month ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 month ago)
