@@ -55,7 +55,7 @@
 
 #### ⚡ Recent Pull Requests
 
-- [refactor: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [refactor: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
@@ -68,11 +68,11 @@
 
 #### ⭐ Recent stars
 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 weeks ago)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (2 weeks ago)
-- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (2 weeks ago)
-- [timburgan/timburgan](https://github.com/timburgan/timburgan) (2 weeks ago)
-- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (2 weeks ago)
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (3 weeks ago)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (3 weeks ago)
+- [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (3 weeks ago)
+- [timburgan/timburgan](https://github.com/timburgan/timburgan) (3 weeks ago)
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (3 weeks ago)
 - [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (3 weeks ago)
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (3 weeks ago)
 - [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (3 weeks ago)
