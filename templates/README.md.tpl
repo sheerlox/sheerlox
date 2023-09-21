@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com" style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheerlox&theme=default&mode=weekly" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
+    <img src="https://github-readme-streak-stats.sherlox.io/?user=sheerlox&theme=default&mode=weekly" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
   </a>
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
