@@ -42,6 +42,7 @@
 
 #### 🫶 Recent contributions
 
+- [sheerlox/github-readme-streak-stats](https://github.com/sheerlox/github-readme-streak-stats) -  (today)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (2 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 weeks ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
@@ -51,7 +52,6 @@
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 months ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (2 months ago)
-- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (5 months ago)
 
 #### ⚡ Recent Pull Requests
 
@@ -83,7 +83,7 @@
 
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com" style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheerlox&theme=default&mode=weekly" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
+    <img src="https://github-readme-streak-stats.sherlox.io/?user=sheerlox&theme=default&mode=weekly" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
   </a>
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
