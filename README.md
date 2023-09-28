@@ -42,8 +42,8 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (2 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 month ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
@@ -55,21 +55,21 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
-- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
+- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
+- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
 - [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 month ago)
-- [perf(npm): remove superfluous files from npm package](https://github.com/harrisiirak/cron-parser/pull/328) on [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) (2 months ago)
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1356) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 months ago)
 
 #### ⭐ Recent stars
 
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (4 days ago)
-- [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (6 days ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (5 days ago)
+- [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (1 week ago)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 month ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (1 month ago)
