@@ -33,7 +33,7 @@ jobs:
     name: Push assets
     needs: [download-assets]
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v3
         with:
           name: assets
