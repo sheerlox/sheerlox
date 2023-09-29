@@ -30,11 +30,11 @@
 
 <div align="center">
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
-    <img src="https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true&hide=stars" alt="Pierre Cavin's Github stats" height="175px" />
+    <img src="assets/stats.svg" alt="Pierre Cavin's Github stats" height="175px" />
   </a>
   
   <a href="https://github-readme-stats.sherlox.io" style="display: inline-block;">
-    <img src="https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&size_weight=0.85&count_weight=0.15&layout=compact&exclude_repo=cerfi-notebooks,freqtrade-datas,sheerlox.github.io&hide=hcl,css,handlebars,smarty,html" alt="Pierre Cavin's Most used languages" height="175px" />
+    <img src="assets/top-langs.svg" alt="Pierre Cavin's Most used languages" height="175px" />
   </a>
 </div>
 
