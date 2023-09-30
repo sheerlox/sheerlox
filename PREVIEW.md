@@ -42,23 +42,23 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (3 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Test/benchmark of all javascript cron implementations (today)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (4 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 month ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 months ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 months ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 months ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 months ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 months ago)
-- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹  (6 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
 - [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 - [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
@@ -68,7 +68,7 @@
 
 #### ⭐ Recent stars
 
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (6 days ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 week ago)
 - [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (1 week ago)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 month ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
