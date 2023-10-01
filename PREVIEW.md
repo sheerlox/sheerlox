@@ -43,18 +43,19 @@
 #### 🫶 Recent contributions
 
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (today)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (today)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 day ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (5 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 months ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 months ago)
 
 #### ⚡ Recent Pull Requests
 
+- [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (today)
 - [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
 - [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
 - [feat: improve context &amp; onTick parameters typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
@@ -64,7 +65,6 @@
 - [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
 - [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
 - [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
-- [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
 
 #### ⭐ Recent stars
 
