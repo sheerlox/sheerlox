@@ -42,32 +42,35 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Test/benchmark of all javascript cron implementations (today)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (today)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (4 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (5 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
-- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (1 month ago)
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 months ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
+- [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [feat: improve context &amp; onTick parameters typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
 - [test: add TS types check](https://github.com/kelektiv/node-cron/pull/690) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
-- [fix(deps): update dependency luxon to v3.3.0 &amp; add @types/luxon](https://github.com/kelektiv/node-cron/pull/689) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
-- [fix: fix range parsing when upper limit = 0](https://github.com/kelektiv/node-cron/pull/687) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
-- [fix: replace loop timeout by max match date](https://github.com/kelektiv/node-cron/pull/686) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 month ago)
-- [chore(deps): remove dev dependency @types/cron](https://github.com/nestjs/schedule/pull/1374) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 month ago)
 
 #### ⭐ Recent stars
 
+- [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (1 day ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 day ago)
+- [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (1 day ago)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 week ago)
 - [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (1 week ago)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 month ago)
@@ -75,9 +78,6 @@
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (1 month ago)
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) (1 month ago)
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (1 month ago)
-- [exercism/website](https://github.com/exercism/website) - The codebase for Exercism&#39;s website.  (1 month ago)
-- [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code. (1 month ago)
-- [GuillaumeRochat/cron-validator](https://github.com/GuillaumeRochat/cron-validator) - Validates cron expressions (1 month ago)
 
 ---
 
