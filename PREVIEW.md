@@ -42,12 +42,12 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 days ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (6 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 week ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
@@ -55,29 +55,29 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
-- [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [feat: improve context &amp; onTick parameters typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [chore: improve GitHub community standards](https://github.com/kelektiv/node-cron/pull/698) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
-- [docs(readme): remove outdated informations](https://github.com/kelektiv/node-cron/pull/695) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
-- [refactor!: migrate to TypeScript](https://github.com/kelektiv/node-cron/pull/694) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 weeks ago)
+- [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (today)
+- [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (today)
+- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
+- [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [feat: improve context &amp; onTick parameters typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
 
 #### ⭐ Recent stars
 
-- [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (2 days ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (2 days ago)
-- [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (2 days ago)
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (1 day ago)
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (1 day ago)
+- [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (3 days ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (3 days ago)
+- [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (3 days ago)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 week ago)
 - [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (1 week ago)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 month ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 month ago)
 - [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - Github profile README.md with dynamic images generated from React.js components. Inspired by natemoo-re (1 month ago)
-- [timburgan/timburgan](https://github.com/timburgan/timburgan) (1 month ago)
-- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile (1 month ago)
 
 ---
 
