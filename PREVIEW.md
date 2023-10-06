@@ -42,11 +42,11 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 days ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 days ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (4 days ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (4 days ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (5 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (today)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 days ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (5 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (5 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 week ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
@@ -55,25 +55,25 @@
 
 #### ⚡ Recent Pull Requests
 
-- [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (2 days ago)
-- [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (2 days ago)
-- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
-- [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [feat: improve context &amp; onTick parameters typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (3 days ago)
+- [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (3 days ago)
+- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [feat: improve context, onTick &amp; onComplete typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
 - [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [feat!: rework utcOffset parameter](https://github.com/kelektiv/node-cron/pull/699) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (2 days ago)
-- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (3 days ago)
-- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (3 days ago)
-- [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (5 days ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (5 days ago)
-- [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (5 days ago)
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 days ago)
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (4 days ago)
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (4 days ago)
+- [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (6 days ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (6 days ago)
+- [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (6 days ago)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 week ago)
 - [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide (2 weeks ago)
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (1 month ago)
