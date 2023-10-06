@@ -19,8 +19,8 @@
 
 <ul>
     <li>🗣 Javascript/Typescript Lead Developer for 6+ years</li>
+    <li>👴 passionate about computers and web development for 12+ years</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>🧑‍🏫 starting as a technology university professor in 2024</li>
     <li>👷 in the early phases of co-founding a recruitment SaaS startup</li>
     <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
     <li>🫶 modest Open Source contributor & maintainer</li>
@@ -42,6 +42,7 @@
 
 #### 🫶 Recent contributions
 
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (today)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (today)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 days ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (5 days ago)
@@ -51,7 +52,6 @@
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 month ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 months ago)
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (3 months ago)
 
 #### ⚡ Recent Pull Requests
 
