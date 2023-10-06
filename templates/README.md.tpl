@@ -19,8 +19,8 @@
 
 <ul>
     <li>🗣 Javascript/Typescript Lead Developer for 6+ years</li>
+    <li>👴 passionate about computers and web development for 12+ years</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>🧑‍🏫 starting as a technology university professor in 2024</li>
     <li>👷 in the early phases of co-founding a recruitment SaaS startup</li>
     <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
     <li>🫶 modest Open Source contributor & maintainer</li>
