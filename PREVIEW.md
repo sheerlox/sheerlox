@@ -42,7 +42,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (today)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 day ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (4 days ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (6 days ago)
