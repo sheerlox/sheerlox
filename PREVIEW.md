@@ -42,9 +42,9 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 days ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (5 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (6 days ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 week ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
@@ -55,10 +55,10 @@
 
 #### ⚡ Recent Pull Requests
 
-- [revert: revert &#34;ci(action): update github/codeql-action action to v2.22.0 (#6)&#34;](https://github.com/sheerlox/import-from-esm/pull/9) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
-- [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (5 days ago)
-- [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (5 days ago)
-- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [revert: revert &#34;ci(action): update github/codeql-action action to v2.22.0 (#6)&#34;](https://github.com/sheerlox/import-from-esm/pull/9) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (3 days ago)
+- [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (6 days ago)
+- [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (6 days ago)
+- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [chore: reflect repository label changes](https://github.com/kelektiv/node-cron/pull/708) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
@@ -68,12 +68,12 @@
 
 #### ⭐ Recent stars
 
-- [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (1 day ago)
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (2 days ago)
-- [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security and get a higher OpenSSF Scorecard score (2 days ago)
-- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (5 days ago)
-- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (6 days ago)
-- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (6 days ago)
+- [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (2 days ago)
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (3 days ago)
+- [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security and get a higher OpenSSF Scorecard score (3 days ago)
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (6 days ago)
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (1 week ago)
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (1 week ago)
 - [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events. (1 week ago)
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 week ago)
 - [maninak/ts-xor](https://github.com/maninak/ts-xor) - Compose custom types containing mutually exclusive keys, using this generic Typescript helper type. (1 week ago)
