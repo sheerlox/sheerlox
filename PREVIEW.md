@@ -42,9 +42,9 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 days ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (5 days ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 week ago)
@@ -55,7 +55,7 @@
 
 #### ⚡ Recent Pull Requests
 
-- [revert: revert &#34;ci(action): update github/codeql-action action to v2.22.0 (#6)&#34;](https://github.com/sheerlox/import-from-esm/pull/9) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (4 days ago)
+- [revert: revert &#34;ci(action): update github/codeql-action action to v2.22.0 (#6)&#34;](https://github.com/sheerlox/import-from-esm/pull/9) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (5 days ago)
 - [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (1 week ago)
 - [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (1 week ago)
 - [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
@@ -64,13 +64,13 @@
 - [test: check at runtime that all tests call expect](https://github.com/kelektiv/node-cron/pull/706) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [feat: improve context, onTick &amp; onComplete typings](https://github.com/kelektiv/node-cron/pull/705) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [docs(readme): update nextDates documentation](https://github.com/kelektiv/node-cron/pull/702) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
-- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
+- [chore: release v3.0.0](https://github.com/kelektiv/node-cron/pull/701) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (3 days ago)
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (4 days ago)
-- [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security and get a higher OpenSSF Scorecard score (4 days ago)
+- [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (4 days ago)
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (5 days ago)
+- [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security and get a higher OpenSSF Scorecard score (5 days ago)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec. (1 week ago)
 - [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (1 week ago)
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (1 week ago)
