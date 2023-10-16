@@ -42,8 +42,8 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 week ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 weeks ago)
@@ -55,27 +55,27 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore: improve ossf scorecard&#39;s score](https://github.com/kelektiv/node-cron/pull/715) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
-- [test: add fuzz testing](https://github.com/sheerlox/import-from-esm/pull/18) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
-- [:sparkles: Add support for fast-check test runners integrations](https://github.com/ossf/scorecard/pull/3568) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [add cron (npm) to repositories.toml](https://github.com/DeepSourceCorp/good-first-issue/pull/652) on [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) (3 days ago)
-- [fix: fix object constructor typings &amp; make OC generic type optional](https://github.com/kelektiv/node-cron/pull/712) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
+- [chore: improve ossf scorecard&#39;s score](https://github.com/kelektiv/node-cron/pull/715) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
+- [test: add fuzz testing](https://github.com/sheerlox/import-from-esm/pull/18) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (3 days ago)
+- [:sparkles: Add support for fast-check test runners integrations](https://github.com/ossf/scorecard/pull/3568) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
+- [add cron (npm) to repositories.toml](https://github.com/DeepSourceCorp/good-first-issue/pull/652) on [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) (4 days ago)
+- [fix: fix object constructor typings &amp; make OC generic type optional](https://github.com/kelektiv/node-cron/pull/712) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
 - [revert: revert &#34;ci(action): update github/codeql-action action to v2.22.0 (#6)&#34;](https://github.com/sheerlox/import-from-esm/pull/9) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [feat: add support for ESM presets](https://github.com/semantic-release/release-notes-generator/pull/544) on [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) (1 week ago)
 - [feat: add support for ESM presets](https://github.com/semantic-release/commit-analyzer/pull/537) on [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) (1 week ago)
-- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
+- [fix: fix lastDate() value for intervals &gt; 25 days](https://github.com/kelektiv/node-cron/pull/711) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 - [chore(deps): update semantic-release related packages](https://github.com/kelektiv/node-cron/pull/709) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [tfiedlerdejanze/expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages. (2 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 days ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 days ago)
-- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (3 days ago)
-- [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript (3 days ago)
-- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (3 days ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (4 days ago)
+- [tfiedlerdejanze/expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages. (3 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 days ago)
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (4 days ago)
+- [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript (4 days ago)
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (4 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (5 days ago)
 - [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (1 week ago)
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (1 week ago)
 
