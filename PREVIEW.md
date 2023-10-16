@@ -68,6 +68,7 @@
 
 #### ⭐ Recent stars
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (today)
 - [tfiedlerdejanze/expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages. (3 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 days ago)
@@ -77,7 +78,6 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. (4 days ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (5 days ago)
 - [laminas/.github](https://github.com/laminas/.github) - Laminas Organization Templates (1 week ago)
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments (1 week ago)
 
 ---
 
@@ -88,6 +88,14 @@
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Now Playing" height="240px" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://holopin.io/@sheerlox" style="display: inline-block;">
+    <img src="https://holopin.me/sheerlox" alt="Pierre Cavin's Holopin badges" height="253px" />
   </a>
 </div>
 
