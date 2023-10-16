@@ -69,6 +69,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://holopin.io/@sheerlox" style="display: inline-block;">
+    <img src="https://holopin.me/sheerlox" alt="Pierre Cavin's Holopin badges" height="253px" />
+  </a>
+</div>
+
+---
+
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" style="text-decoration: none;">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Inaction%20will%20cause%20a%20man%20to%20sink%20into%20the%20slough%20of%20despond%20and%20vanish%20without%20a%20trace.&author=Farley%20Mowat" alt="Quote">
