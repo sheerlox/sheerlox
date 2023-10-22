@@ -43,21 +43,21 @@
 #### 🫶 Recent contributions
 
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (2 weeks ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgentlab/conventional-changelog-preset (3 weeks ago)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (3 weeks ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 months ago)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (2 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [fix: allow callbacks to return a promise](https://github.com/kelektiv/node-cron/pull/733) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [ci(renovate): update configuration](https://github.com/kelektiv/node-cron/pull/732) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [fix(deps)!: update dependency cron to v3](https://github.com/nestjs/schedule/pull/1461) on [nestjs/schedule](https://github.com/nestjs/schedule) (2 days ago)
+- [fix: allow callbacks to return a promise](https://github.com/kelektiv/node-cron/pull/733) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [ci(renovate): update configuration](https://github.com/kelektiv/node-cron/pull/732) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (3 days ago)
+- [fix(deps)!: update dependency cron to v3](https://github.com/nestjs/schedule/pull/1461) on [nestjs/schedule](https://github.com/nestjs/schedule) (3 days ago)
 - [chore: improve ossf scorecard&#39;s score](https://github.com/kelektiv/node-cron/pull/715) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [test: add fuzz testing](https://github.com/sheerlox/import-from-esm/pull/18) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [:sparkles: Add support for fast-check test runners integrations](https://github.com/ossf/scorecard/pull/3568) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
@@ -68,16 +68,16 @@
 
 #### ⭐ Recent stars
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (2 days ago)
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (2 days ago)
-- [renovatebot/.github](https://github.com/renovatebot/.github) (3 days ago)
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) (3 days ago)
-- [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image (3 days ago)
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (5 days ago)
+- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! (1 day ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (3 days ago)
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service. (3 days ago)
+- [renovatebot/.github](https://github.com/renovatebot/.github) (4 days ago)
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) (4 days ago)
+- [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image (4 days ago)
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (6 days ago)
 - [tfiedlerdejanze/expublish](https://github.com/tfiedlerdejanze/expublish) - Automates semantic release versioning and best practices for elixir packages. (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 week ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
 
 ---
 
