@@ -42,11 +42,11 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 days ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (3 days ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (3 days ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (5 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (4 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (4 days ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (6 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 week ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 weeks ago)
@@ -55,29 +55,29 @@
 
 #### ⚡ Recent Pull Requests
 
-- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (1 day ago)
-- [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (1 day ago)
+- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (2 days ago)
+- [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: set runOnce when actual date is given to setTime](https://github.com/kelektiv/node-cron/pull/740) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: allow callbacks to return a promise](https://github.com/kelektiv/node-cron/pull/733) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [ci(renovate): update configuration](https://github.com/kelektiv/node-cron/pull/732) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix(deps)!: update dependency cron to v3](https://github.com/nestjs/schedule/pull/1461) on [nestjs/schedule](https://github.com/nestjs/schedule) (1 week ago)
-- [chore: improve ossf scorecard&#39;s score](https://github.com/kelektiv/node-cron/pull/715) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
-- [test: add fuzz testing](https://github.com/sheerlox/import-from-esm/pull/18) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 day ago)
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (1 day ago)
-- [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (6 days ago)
-- [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS. (6 days ago)
-- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions (6 days ago)
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (6 days ago)
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. (6 days ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (6 days ago)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (6 days ago)
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (6 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 day ago)
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (2 days ago)
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (2 days ago)
+- [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (1 week ago)
+- [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS. (1 week ago)
+- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions (1 week ago)
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 week ago)
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. (1 week ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 
 ---
 
