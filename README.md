@@ -42,11 +42,11 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (4 days ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (4 days ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 days ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (6 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (5 days ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (5 days ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (5 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (1 week ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 weeks ago)
@@ -55,11 +55,11 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (1 day ago)
-- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
-- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (2 days ago)
-- [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (2 days ago)
+- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
+- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (3 days ago)
+- [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: set runOnce when actual date is given to setTime](https://github.com/kelektiv/node-cron/pull/740) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: allow callbacks to return a promise](https://github.com/kelektiv/node-cron/pull/733) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
@@ -68,9 +68,9 @@
 
 #### ⭐ Recent stars
 
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 day ago)
-- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (2 days ago)
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (2 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 days ago)
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (3 days ago)
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (3 days ago)
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (1 week ago)
 - [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS. (1 week ago)
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions (1 week ago)
