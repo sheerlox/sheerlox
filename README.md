@@ -42,22 +42,22 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (5 days ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 week ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 weeks ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 weeks ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 month ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 weeks ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 months ago)
 
 #### ⚡ Recent Pull Requests
 
-- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (4 days ago)
-- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (4 days ago)
-- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (5 days ago)
+- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (5 days ago)
+- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
+- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (6 days ago)
 - [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
@@ -68,9 +68,9 @@
 
 #### ⭐ Recent stars
 
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (4 days ago)
-- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (5 days ago)
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (5 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (5 days ago)
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (6 days ago)
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (6 days ago)
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (1 week ago)
 - [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS. (1 week ago)
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions (1 week ago)
