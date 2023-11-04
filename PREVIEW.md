@@ -42,9 +42,9 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 day ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (5 days ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 week ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (2 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
@@ -55,9 +55,9 @@
 
 #### ⚡ Recent Pull Requests
 
-- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (5 days ago)
-- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (5 days ago)
-- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (6 days ago)
+- [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (6 days ago)
+- [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (6 days ago)
+- [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (1 week ago)
 - [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
@@ -68,16 +68,16 @@
 
 #### ⭐ Recent stars
 
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (5 days ago)
-- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (6 days ago)
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (6 days ago)
+- [CaptainFact/captain-fact-api](https://github.com/CaptainFact/captain-fact-api) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io (1 day ago)
+- [swoosh/swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir (1 day ago)
+- [asaaki/cmark.ex](https://github.com/asaaki/cmark.ex) - 💧 Elixir NIF for cmark (C), a parser library following the CommonMark spec, a compatible implementation of Markdown. (1 day ago)
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform. (1 day ago)
+- [fly-apps/live_beats](https://github.com/fly-apps/live_beats) (1 day ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (6 days ago)
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 week ago)
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (1 week ago)
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34; (1 week ago)
 - [elixir-lsp/vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) - Elixir language support and debugger for VS Code, powered by ElixirLS. (1 week ago)
-- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions (1 week ago)
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 week ago)
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. (1 week ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 
 ---
 
