@@ -42,6 +42,7 @@
 
 #### 🫶 Recent contributions
 
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (today)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (2 days ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
@@ -51,7 +52,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 weeks ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 weeks ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 months ago)
 
 #### ⚡ Recent Pull Requests
 
