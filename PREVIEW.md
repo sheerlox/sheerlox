@@ -42,6 +42,8 @@
 
 #### 🫶 Recent contributions
 
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (today)
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (today)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 day ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (3 days ago)
@@ -49,9 +51,7 @@
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [nestjs/schedule](https://github.com/nestjs/schedule) - Schedule module for Nest framework (node.js) ⏰ (2 weeks ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 month ago)
 
 #### ⚡ Recent Pull Requests
 
@@ -68,6 +68,9 @@
 
 #### ⭐ Recent stars
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (today)
+- [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm (today)
+- [wooorm/npm-esm-vs-cjs](https://github.com/wooorm/npm-esm-vs-cjs) - Data on the share of ESM vs CJS on the public npm registry (today)
 - [mahyarmirrashed/cron-compose](https://github.com/mahyarmirrashed/cron-compose) - Easily craft precise cron expressions using a declarative syntax. (1 day ago)
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD) (1 day ago)
 - [CaptainFact/captain-fact-api](https://github.com/CaptainFact/captain-fact-api) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io (3 days ago)
@@ -75,9 +78,6 @@
 - [asaaki/cmark.ex](https://github.com/asaaki/cmark.ex) - 💧 Elixir NIF for cmark (C), a parser library following the CommonMark spec, a compatible implementation of Markdown. (3 days ago)
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform. (3 days ago)
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) (3 days ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 week ago)
-- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 week ago)
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports (1 week ago)
 
 ---
 
