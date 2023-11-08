@@ -42,42 +42,42 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (today)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
-- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (1 day ago)
-- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (1 day ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 days ago)
-- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (5 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (today)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 day ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 day ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) -  (1 day ago)
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (2 days ago)
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (2 days ago)
+- [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (6 days ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 
 #### ⚡ Recent Pull Requests
 
-- [feat: support subpath imports](https://github.com/sheerlox/import-from-esm/pull/35) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
-- [test: add package import test cases](https://github.com/sheerlox/import-from-esm/pull/34) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
-- [refactor: convert library to ESM](https://github.com/insurgent-lab/conventional-changelog-preset/pull/111) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (1 day ago)
-- [fix: loading absolute path fails on windows](https://github.com/sheerlox/import-from-esm/pull/31) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
+- [fix: display PR number instead of id](https://github.com/insurgent-lab/is-in-pr-action/pull/2) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (1 day ago)
+- [fix: support windows absolute paths](https://github.com/sheerlox/import-from-esm/pull/40) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
+- [feat: initial commit](https://github.com/insurgent-lab/is-in-pr-action/pull/1) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (1 day ago)
+- [feat: support subpath imports](https://github.com/sheerlox/import-from-esm/pull/35) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
+- [test: add package import test cases](https://github.com/sheerlox/import-from-esm/pull/34) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
+- [refactor: convert library to ESM](https://github.com/insurgent-lab/conventional-changelog-preset/pull/111) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (2 days ago)
+- [fix: loading absolute path fails on windows](https://github.com/sheerlox/import-from-esm/pull/31) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (3 days ago)
 - [chore: add cron (npm) to config.json](https://github.com/lucavallin/verto/pull/294) on [lucavallin/verto](https://github.com/lucavallin/verto) (1 week ago)
 - [fix: revert runOnce breaking changes](https://github.com/kelektiv/node-cron/pull/760) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
 - [Add required option to attr/3 in Components guide](https://github.com/phoenixframework/phoenix/pull/5617) on [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) (1 week ago)
-- [fix: re-add runOnce property to CronJob](https://github.com/kelektiv/node-cron/pull/751) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 week ago)
-- [chore: reduce renovate updates noise](https://github.com/kelektiv/node-cron/pull/750) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
-- [fix: detect multiple zeros as an invalid step](https://github.com/kelektiv/node-cron/pull/743) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 weeks ago)
 
 #### ⭐ Recent stars
 
-- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 day ago)
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (1 day ago)
-- [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm (1 day ago)
-- [wooorm/npm-esm-vs-cjs](https://github.com/wooorm/npm-esm-vs-cjs) - Data on the share of ESM vs CJS on the public npm registry (1 day ago)
-- [mahyarmirrashed/cron-compose](https://github.com/mahyarmirrashed/cron-compose) - Easily craft precise cron expressions using a declarative syntax. (2 days ago)
-- [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD) (2 days ago)
-- [CaptainFact/captain-fact-api](https://github.com/CaptainFact/captain-fact-api) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io (4 days ago)
-- [swoosh/swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir (4 days ago)
-- [asaaki/cmark.ex](https://github.com/asaaki/cmark.ex) - 💧 Elixir NIF for cmark (C), a parser library following the CommonMark spec, a compatible implementation of Markdown. (4 days ago)
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform. (4 days ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (today)
+- [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one (1 day ago)
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (2 days ago)
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (2 days ago)
+- [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm (2 days ago)
+- [wooorm/npm-esm-vs-cjs](https://github.com/wooorm/npm-esm-vs-cjs) - Data on the share of ESM vs CJS on the public npm registry (2 days ago)
+- [mahyarmirrashed/cron-compose](https://github.com/mahyarmirrashed/cron-compose) - Easily craft precise cron expressions using a declarative syntax. (3 days ago)
+- [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD) (3 days ago)
+- [CaptainFact/captain-fact-api](https://github.com/CaptainFact/captain-fact-api) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io (5 days ago)
+- [swoosh/swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir (5 days ago)
 
 ---
 
