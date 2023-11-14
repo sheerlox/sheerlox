@@ -42,12 +42,12 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 days ago)
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (4 days ago)
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (6 days ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (6 days ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (6 days ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (6 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (5 days ago)
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (5 days ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 week ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 week ago)
 - [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog (1 week ago)
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog (1 week ago)
 - [sheerlox/node-cron-test](https://github.com/sheerlox/node-cron-test) -  (1 week ago)
@@ -55,11 +55,11 @@
 
 #### ⚡ Recent Pull Requests
 
-- [test: add fuzzing regression tests](https://github.com/sheerlox/import-from-esm/pull/43) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (5 days ago)
-- [feat: add JSON modules support](https://github.com/sheerlox/import-from-esm/pull/42) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (5 days ago)
-- [fix: display PR number instead of id](https://github.com/insurgent-lab/is-in-pr-action/pull/2) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (6 days ago)
-- [fix: support windows absolute paths](https://github.com/sheerlox/import-from-esm/pull/40) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (6 days ago)
-- [feat: initial commit](https://github.com/insurgent-lab/is-in-pr-action/pull/1) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (6 days ago)
+- [test: add fuzzing regression tests](https://github.com/sheerlox/import-from-esm/pull/43) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (6 days ago)
+- [feat: add JSON modules support](https://github.com/sheerlox/import-from-esm/pull/42) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (6 days ago)
+- [fix: display PR number instead of id](https://github.com/insurgent-lab/is-in-pr-action/pull/2) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (1 week ago)
+- [fix: support windows absolute paths](https://github.com/sheerlox/import-from-esm/pull/40) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
+- [feat: initial commit](https://github.com/insurgent-lab/is-in-pr-action/pull/1) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (1 week ago)
 - [feat: support subpath imports](https://github.com/sheerlox/import-from-esm/pull/35) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [test: add package import test cases](https://github.com/sheerlox/import-from-esm/pull/34) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [refactor: convert library to ESM](https://github.com/insurgent-lab/conventional-changelog-preset/pull/111) on [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) (1 week ago)
@@ -68,8 +68,8 @@
 
 #### ⭐ Recent stars
 
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (5 days ago)
-- [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one (6 days ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (6 days ago)
+- [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one (1 week ago)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 week ago)
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (1 week ago)
 - [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm (1 week ago)
