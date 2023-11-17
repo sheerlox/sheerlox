@@ -42,33 +42,34 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (today)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (today)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (today)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (today)
-- [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (today)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (today)
+- [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (1 day ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
+- [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (1 day ago)
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 week ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 week ago)
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 week ago)
 
 #### ⚡ Recent Pull Requests
 
-- [refactor!: convert library to ESM](https://github.com/insurgent-lab/commitlint-config/pull/99) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (today)
-- [fix: support windows absolute extends](https://github.com/semantic-release/semantic-release/pull/3062) on [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) (today)
-- [feat: support index, main and extensionless JSON modules](https://github.com/sheerlox/import-from-esm/pull/51) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (today)
-- [refactor: add debug logging](https://github.com/sheerlox/import-from-esm/pull/50) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (today)
-- [ci(action): prevent duplicate checks on Renovate PRs](https://github.com/kelektiv/node-cron/pull/784) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (today)
-- [fix(typescript): use default export in declaration file](https://github.com/sheerlox/import-from-esm/pull/48) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (today)
+- [chore: reflect insurgentlab scope update in config files](https://github.com/kelektiv/node-cron/pull/785) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [refactor!: convert library to ESM](https://github.com/insurgent-lab/commitlint-config/pull/99) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (1 day ago)
+- [fix: support windows absolute extends](https://github.com/semantic-release/semantic-release/pull/3062) on [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) (1 day ago)
+- [feat: support index, main and extensionless JSON modules](https://github.com/sheerlox/import-from-esm/pull/51) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
+- [refactor: add debug logging](https://github.com/sheerlox/import-from-esm/pull/50) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
+- [ci(action): prevent duplicate checks on Renovate PRs](https://github.com/kelektiv/node-cron/pull/784) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (1 day ago)
+- [fix(typescript): use default export in declaration file](https://github.com/sheerlox/import-from-esm/pull/48) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 day ago)
 - [test: add fuzzing regression tests](https://github.com/sheerlox/import-from-esm/pull/43) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [feat: add JSON modules support](https://github.com/sheerlox/import-from-esm/pull/42) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 - [fix: display PR number instead of id](https://github.com/insurgent-lab/is-in-pr-action/pull/2) on [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) (1 week ago)
-- [fix: support windows absolute paths](https://github.com/sheerlox/import-from-esm/pull/40) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (today)
+- [rexxars/npm-high-impact-cli](https://github.com/rexxars/npm-high-impact-cli) - Fetch the npm packages a user is a maintainer of and figure out which of them (if any) are considered high-impact (1 day ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 day ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 week ago)
 - [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one (1 week ago)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 week ago)
@@ -77,7 +78,6 @@
 - [wooorm/npm-esm-vs-cjs](https://github.com/wooorm/npm-esm-vs-cjs) - Data on the share of ESM vs CJS on the public npm registry (1 week ago)
 - [mahyarmirrashed/cron-compose](https://github.com/mahyarmirrashed/cron-compose) - Easily craft precise cron expressions using a declarative syntax. (1 week ago)
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer (1 week ago)
-- [CaptainFact/captain-fact-api](https://github.com/CaptainFact/captain-fact-api) - 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io (1 week ago)
 
 ---
 
