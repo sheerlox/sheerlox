@@ -42,14 +42,14 @@
 
 #### 🫶 Recent contributions
 
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (today)
 - [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (1 day ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 day ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 day ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 day ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
 - [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 week ago)
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 week ago)
 
