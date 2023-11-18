@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 {{range recentReleases 20}}
-- [{{.Name}} `{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) - {{.Description}} ({{humanize .LastRelease.PublishedAt}})
+- [{{.Name}} `{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}}){{with .Description}} <sub><sup>- {{.}}</sup></sub>{{end}}
 {{end}}
 
 ---
