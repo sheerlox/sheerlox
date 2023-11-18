@@ -40,44 +40,44 @@
 
 ---
 
-#### 🫶 Recent contributions
+#### 🫶 Recent release contributions
 
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (today)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 day ago)
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 day ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 day ago)
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 day ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 days ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 days ago)
-- [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (2 days ago)
+- [insurgent-lab/is-in-pr-action `v0.1.4`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.4) (1 day ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
-#### ⚡ Recent Pull Requests
+- [semantic-release/semantic-release `v22.0.8`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.8) (1 day ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
-- [ci(action): fix prevent-duplicate-checks output](https://github.com/talent-ideal/semantic-release-hex/pull/9) on [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) (1 day ago)
-- [ci(action): fix prevent-duplicate-checks output](https://github.com/talent-ideal/semantic-release-hex/pull/8) on [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) (1 day ago)
-- [ci(action): prevent duplicate checks on Renovate PRs](https://github.com/talent-ideal/semantic-release-hex/pull/7) on [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) (1 day ago)
-- [chore: reflect insurgentlab scope update in config files](https://github.com/kelektiv/node-cron/pull/785) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [refactor!: convert library to ESM](https://github.com/insurgent-lab/commitlint-config/pull/99) on [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) (2 days ago)
-- [fix: support windows absolute extends](https://github.com/semantic-release/semantic-release/pull/3062) on [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) (2 days ago)
-- [feat: support index, main and extensionless JSON modules](https://github.com/sheerlox/import-from-esm/pull/51) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
-- [refactor: add debug logging](https://github.com/sheerlox/import-from-esm/pull/50) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
-- [ci(action): prevent duplicate checks on Renovate PRs](https://github.com/kelektiv/node-cron/pull/784) on [kelektiv/node-cron](https://github.com/kelektiv/node-cron) (2 days ago)
-- [fix(typescript): use default export in declaration file](https://github.com/sheerlox/import-from-esm/pull/48) on [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) (2 days ago)
+- [sheerlox/import-from-esm `v1.3.1`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.1) (2 days ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
-#### ⭐ Recent stars
+- [insurgent-lab/json-main-test `v1.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v1.0.0) (2 days ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
 
-- [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events (1 day ago)
-- [rexxars/npm-high-impact-cli](https://github.com/rexxars/npm-high-impact-cli) - Fetch the npm packages a user is a maintainer of and figure out which of them (if any) are considered high-impact (2 days ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 days ago)
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 week ago)
-- [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr) - Github Action for getting all the details about the current Pull Request if the commit is part of one (1 week ago)
-- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 week ago)
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows (1 week ago)
-- [wooorm/npm-high-impact](https://github.com/wooorm/npm-high-impact) - The high-impact (popular) packages of npm (1 week ago)
-- [wooorm/npm-esm-vs-cjs](https://github.com/wooorm/npm-esm-vs-cjs) - Data on the share of ESM vs CJS on the public npm registry (1 week ago)
-- [mahyarmirrashed/cron-compose](https://github.com/mahyarmirrashed/cron-compose) - Easily craft precise cron expressions using a declarative syntax. (1 week ago)
+- [insurgent-lab/json-index-test `v1.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v1.0.0) (2 days ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
+
+- [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (2 days ago) <sub><sup>- conventional-changelog preset</sup></sub>
+
+- [sheerlox/cron-comparison `v1.3.11`](https://github.com/sheerlox/cron-comparison/releases/tag/v1.3.11) (2 days ago) <sub><sup>- Automated benchmark of all JavaScript cron implementations</sup></sub>
+
+- [semantic-release/commit-analyzer `v11.1.0`](https://github.com/semantic-release/commit-analyzer/releases/tag/v11.1.0) (1 week ago) <sub><sup>- :bulb: semantic-release plugin to analyze commits with conventional-changelog</sup></sub>
+
+- [semantic-release/release-notes-generator `v12.1.0`](https://github.com/semantic-release/release-notes-generator/releases/tag/v12.1.0) (1 week ago) <sub><sup>- :clipboard: semantic-release plugin to generate changelog content with conventional-changelog</sup></sub>
+
+- [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (2 weeks ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
+
+- [insurgent-lab/commitlint-config `v19.0.0`](https://github.com/insurgent-lab/commitlint-config/releases/tag/v19.0.0) (2 weeks ago) <sub><sup>- commitlint config for @insurgent/conventional-changelog-preset</sup></sub>
+
+- [nestjs/nest-cli `10.2.1`](https://github.com/nestjs/nest-cli/releases/tag/10.2.1) (2 weeks ago) <sub><sup>- CLI tool for Nest applications 🍹 </sup></sub>
+
+- [kelektiv/node-cron `v3.1.6`](https://github.com/kelektiv/node-cron/releases/tag/v3.1.6) (2 weeks ago) <sub><sup>- Cron for NodeJS.</sup></sub>
+
+- [nestjs/schedule `4.0.0`](https://github.com/nestjs/schedule/releases/tag/4.0.0) (3 weeks ago) <sub><sup>- Schedule module for Nest framework (node.js) ⏰</sup></sub>
+
+- [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (4 weeks ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
+
+- [harrisiirak/cron-parser `4.9.0`](https://github.com/harrisiirak/cron-parser/releases/tag/4.9.0) (3 months ago) <sub><sup>- Node.js library for parsing crontab instructions</sup></sub>
+
+- [phoenixframework/phoenix `v1.5.3`](https://github.com/phoenixframework/phoenix/releases/tag/v1.5.3) (3 years ago) <sub><sup>- Peace of mind from prototype to production</sup></sub>
+
+- [DefinitelyTyped/DefinitelyTyped `0.1.450`](https://github.com/DefinitelyTyped/DefinitelyTyped/releases/tag/0.1.450) (4 years ago) <sub><sup>- The repository for high quality TypeScript type definitions.</sup></sub>
+
 
 ---
 
