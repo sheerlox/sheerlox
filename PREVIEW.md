@@ -42,15 +42,15 @@
 
 #### 🫶 Recent release contributions
 
-- [sheerlox/semantic-release-hex-demo `v1.0.3`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.3) (1 day ago)
+- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (today)
+
+- [talent-ideal/semantic-release-hex `v1.0.2`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.2) (today) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
 - [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (1 day ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
 - [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (1 day ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
 
 - [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (1 day ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
-
-- [talent-ideal/semantic-release-hex `v1.0.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.1) (2 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
 - [insurgent-lab/is-in-pr-action `v0.1.4`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.4) (3 days ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
