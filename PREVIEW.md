@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (today)
+- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (today) <sub><sup>- Demo project to showcase version management of an Elixir project with Conventional Commits using semantic-release and semantic-release-hex</sup></sub>
 
 - [talent-ideal/semantic-release-hex `v1.0.2`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.2) (today) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
