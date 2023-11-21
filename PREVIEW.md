@@ -42,9 +42,9 @@
 
 #### 🫶 Recent release contributions
 
-- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (1 day ago) <sub><sup>- Demo project to showcase version management of an Elixir project with Conventional Commits using semantic-release and semantic-release-hex</sup></sub>
+- [talent-ideal/semantic-release-hex `v1.0.3`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.3) (today) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
-- [talent-ideal/semantic-release-hex `v1.0.2`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.2) (1 day ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (1 day ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
 
 - [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (2 days ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
