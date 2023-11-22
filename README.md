@@ -42,23 +42,23 @@
 
 #### 🫶 Recent release contributions
 
-- [talent-ideal/semantic-release-hex `v1.0.3`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.3) (today) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+- [talent-ideal/semantic-release-hex `v1.0.3`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.0.3) (1 day ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
-- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (1 day ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
+- [sheerlox/semantic-release-hex-demo `v1.0.5`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.5) (2 days ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
 
-- [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (2 days ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
+- [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (3 days ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
-- [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (2 days ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
+- [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (3 days ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
 
-- [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (2 days ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
+- [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (3 days ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
 
-- [insurgent-lab/is-in-pr-action `v0.1.4`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.4) (4 days ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
+- [insurgent-lab/is-in-pr-action `v0.1.4`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.4) (5 days ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
-- [semantic-release/semantic-release `v22.0.8`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.8) (4 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v22.0.8`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.8) (5 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
-- [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (5 days ago) <sub><sup>- conventional-changelog preset</sup></sub>
+- [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (6 days ago) <sub><sup>- conventional-changelog preset</sup></sub>
 
-- [sheerlox/cron-comparison `v1.3.11`](https://github.com/sheerlox/cron-comparison/releases/tag/v1.3.11) (5 days ago) <sub><sup>- Automated benchmark of all JavaScript cron implementations</sup></sub>
+- [sheerlox/cron-comparison `v1.3.11`](https://github.com/sheerlox/cron-comparison/releases/tag/v1.3.11) (6 days ago) <sub><sup>- Automated benchmark of all JavaScript cron implementations</sup></sub>
 
 - [semantic-release/commit-analyzer `v11.1.0`](https://github.com/semantic-release/commit-analyzer/releases/tag/v11.1.0) (2 weeks ago) <sub><sup>- :bulb: semantic-release plugin to analyze commits with conventional-changelog</sup></sub>
 
@@ -72,7 +72,7 @@
 
 - [kelektiv/node-cron `v3.1.6`](https://github.com/kelektiv/node-cron/releases/tag/v3.1.6) (3 weeks ago) <sub><sup>- Cron for NodeJS.</sup></sub>
 
-- [nestjs/schedule `4.0.0`](https://github.com/nestjs/schedule/releases/tag/4.0.0) (4 weeks ago) <sub><sup>- Schedule module for Nest framework (node.js) ⏰</sup></sub>
+- [nestjs/schedule `4.0.0`](https://github.com/nestjs/schedule/releases/tag/4.0.0) (1 month ago) <sub><sup>- Schedule module for Nest framework (node.js) ⏰</sup></sub>
 
 - [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (1 month ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
 
