@@ -42,11 +42,11 @@
 
 #### 🫶 Recent release contributions
 
-- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (2 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (3 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
-- [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (5 days ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
+- [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (6 days ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
-- [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (6 days ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
+- [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (1 week ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
 
 - [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (1 week ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
@@ -66,9 +66,9 @@
 
 - [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (3 weeks ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
 
-- [insurgent-lab/commitlint-config `v19.0.0`](https://github.com/insurgent-lab/commitlint-config/releases/tag/v19.0.0) (4 weeks ago) <sub><sup>- commitlint config for @insurgent/conventional-changelog-preset</sup></sub>
+- [insurgent-lab/commitlint-config `v19.0.0`](https://github.com/insurgent-lab/commitlint-config/releases/tag/v19.0.0) (1 month ago) <sub><sup>- commitlint config for @insurgent/conventional-changelog-preset</sup></sub>
 
-- [nestjs/nest-cli `10.2.1`](https://github.com/nestjs/nest-cli/releases/tag/10.2.1) (4 weeks ago) <sub><sup>- CLI tool for Nest applications 🍹 </sup></sub>
+- [nestjs/nest-cli `10.2.1`](https://github.com/nestjs/nest-cli/releases/tag/10.2.1) (1 month ago) <sub><sup>- CLI tool for Nest applications 🍹 </sup></sub>
 
 - [kelektiv/node-cron `v3.1.6`](https://github.com/kelektiv/node-cron/releases/tag/v3.1.6) (1 month ago) <sub><sup>- Cron for NodeJS.</sup></sub>
 
