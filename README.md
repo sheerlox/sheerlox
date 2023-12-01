@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (4 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (5 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
 - [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (1 week ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
@@ -54,7 +54,7 @@
 
 - [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (1 week ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
 
-- [semantic-release/semantic-release `v22.0.8`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.8) (1 week ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v22.0.8`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.8) (2 weeks ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
 - [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (2 weeks ago) <sub><sup>- conventional-changelog preset</sup></sub>
 
@@ -64,7 +64,7 @@
 
 - [semantic-release/release-notes-generator `v12.1.0`](https://github.com/semantic-release/release-notes-generator/releases/tag/v12.1.0) (3 weeks ago) <sub><sup>- :clipboard: semantic-release plugin to generate changelog content with conventional-changelog</sup></sub>
 
-- [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (3 weeks ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
+- [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (4 weeks ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
 
 - [insurgent-lab/commitlint-config `v19.0.0`](https://github.com/insurgent-lab/commitlint-config/releases/tag/v19.0.0) (1 month ago) <sub><sup>- commitlint config for @insurgent/conventional-changelog-preset</sup></sub>
 
