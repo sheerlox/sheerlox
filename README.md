@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (5 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (6 days ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
 - [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (1 week ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
