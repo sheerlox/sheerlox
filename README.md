@@ -60,9 +60,9 @@
 
 - [sheerlox/cron-comparison `v1.3.11`](https://github.com/sheerlox/cron-comparison/releases/tag/v1.3.11) (2 weeks ago) <sub><sup>- Automated benchmark of all JavaScript cron implementations</sup></sub>
 
-- [semantic-release/commit-analyzer `v11.1.0`](https://github.com/semantic-release/commit-analyzer/releases/tag/v11.1.0) (3 weeks ago) <sub><sup>- :bulb: semantic-release plugin to analyze commits with conventional-changelog</sup></sub>
+- [semantic-release/commit-analyzer `v11.1.0`](https://github.com/semantic-release/commit-analyzer/releases/tag/v11.1.0) (4 weeks ago) <sub><sup>- :bulb: semantic-release plugin to analyze commits with conventional-changelog</sup></sub>
 
-- [semantic-release/release-notes-generator `v12.1.0`](https://github.com/semantic-release/release-notes-generator/releases/tag/v12.1.0) (3 weeks ago) <sub><sup>- :clipboard: semantic-release plugin to generate changelog content with conventional-changelog</sup></sub>
+- [semantic-release/release-notes-generator `v12.1.0`](https://github.com/semantic-release/release-notes-generator/releases/tag/v12.1.0) (4 weeks ago) <sub><sup>- :clipboard: semantic-release plugin to generate changelog content with conventional-changelog</sup></sub>
 
 - [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (1 month ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
 
