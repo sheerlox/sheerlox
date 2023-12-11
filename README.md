@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [semantic-release/semantic-release `v22.0.10`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.10) (4 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v22.0.10`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.10) (5 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
 - [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (2 weeks ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
