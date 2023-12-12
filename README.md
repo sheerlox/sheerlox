@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [semantic-release/semantic-release `v22.0.10`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.10) (5 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v22.0.11`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.11) (1 day ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
 - [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (2 weeks ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
@@ -76,7 +76,7 @@
 
 - [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (1 month ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
 
-- [harrisiirak/cron-parser `4.9.0`](https://github.com/harrisiirak/cron-parser/releases/tag/4.9.0) (3 months ago) <sub><sup>- Node.js library for parsing crontab instructions</sup></sub>
+- [harrisiirak/cron-parser `4.9.0`](https://github.com/harrisiirak/cron-parser/releases/tag/4.9.0) (4 months ago) <sub><sup>- Node.js library for parsing crontab instructions</sup></sub>
 
 - [phoenixframework/phoenix `v1.5.3`](https://github.com/phoenixframework/phoenix/releases/tag/v1.5.3) (3 years ago) <sub><sup>- Peace of mind from prototype to production</sup></sub>
 
