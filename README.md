@@ -42,13 +42,13 @@
 
 #### 🫶 Recent release contributions
 
-- [semantic-release/semantic-release `v22.0.11`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.11) (1 day ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v22.0.12`](https://github.com/semantic-release/semantic-release/releases/tag/v22.0.12) (1 day ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
 - [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (2 weeks ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
 - [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (2 weeks ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
 
-- [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (2 weeks ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
+- [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (3 weeks ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
 
 - [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (3 weeks ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
