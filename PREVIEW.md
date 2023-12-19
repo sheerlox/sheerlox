@@ -42,7 +42,7 @@
 
 #### 🫶 Recent release contributions
 
-- [semantic-release/semantic-release `v23.0.0-beta.3`](https://github.com/semantic-release/semantic-release/releases/tag/v23.0.0-beta.3) (2 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [semantic-release/semantic-release `v23.0.0-beta.3`](https://github.com/semantic-release/semantic-release/releases/tag/v23.0.0-beta.3) (3 days ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
 
 - [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (3 weeks ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
 
@@ -50,11 +50,11 @@
 
 - [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (3 weeks ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
 
-- [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (4 weeks ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
+- [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (1 month ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
 
-- [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (4 weeks ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
+- [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (1 month ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
 
-- [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (4 weeks ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
+- [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (1 month ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
 
 - [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (1 month ago) <sub><sup>- conventional-changelog preset</sup></sub>
 
@@ -74,7 +74,7 @@
 
 - [nestjs/schedule `4.0.0`](https://github.com/nestjs/schedule/releases/tag/4.0.0) (1 month ago) <sub><sup>- Schedule module for Nest framework (node.js) ⏰</sup></sub>
 
-- [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (1 month ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
+- [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (2 months ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
 
 - [harrisiirak/cron-parser `4.9.0`](https://github.com/harrisiirak/cron-parser/releases/tag/4.9.0) (4 months ago) <sub><sup>- Node.js library for parsing crontab instructions</sup></sub>
 
