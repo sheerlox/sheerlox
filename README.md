@@ -40,48 +40,41 @@
 
 ---
 
-#### 🫶 Recent release contributions
+#### 🫶 Recent contributions
 
-- [semantic-release/semantic-release `v23.0.0-beta.3`](https://github.com/semantic-release/semantic-release/releases/tag/v23.0.0-beta.3) (1 week ago) <sub><sup>- :package::rocket: Fully automated version management and package publishing</sup></sub>
+- [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (6 days ago)
+- [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 week ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 weeks ago)
+- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (4 weeks ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 weeks ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
+- [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (1 month ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
+- [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (1 month ago)
+- [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (1 month ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 month ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 month ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 month ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
+- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (1 month ago)
 
-- [talent-ideal/semantic-release-hex `v1.1.1`](https://github.com/talent-ideal/semantic-release-hex/releases/tag/v1.1.1) (1 month ago) <sub><sup>- 🚢 semantic-release plugin to publish a hex package</sup></sub>
+#### ⭐ Recent stars
 
-- [insurgent-lab/is-in-pr-action `v0.1.5`](https://github.com/insurgent-lab/is-in-pr-action/releases/tag/v0.1.5) (1 month ago) <sub><sup>- Github Action for checking if the current commit is part of a PR</sup></sub>
-
-- [sheerlox/semantic-release-hex-demo `v1.0.6`](https://github.com/sheerlox/semantic-release-hex-demo/releases/tag/v1.0.6) (1 month ago) <sub><sup>- Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex</sup></sub>
-
-- [sheerlox/import-from-esm `v1.3.3`](https://github.com/sheerlox/import-from-esm/releases/tag/v1.3.3) (1 month ago) <sub><sup>- Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules</sup></sub>
-
-- [insurgent-lab/json-main-test `v2.0.0`](https://github.com/insurgent-lab/json-main-test/releases/tag/v2.0.0) (1 month ago) <sub><sup>- Package that contains a single main.json file (with a main field in package.json) for testing purposes</sup></sub>
-
-- [insurgent-lab/json-index-test `v2.0.0`](https://github.com/insurgent-lab/json-index-test/releases/tag/v2.0.0) (1 month ago) <sub><sup>- Package that contains a single index.json file (without a main field in package.json) for testing purposes</sup></sub>
-
-- [insurgent-lab/conventional-changelog-preset `v8.0.2`](https://github.com/insurgent-lab/conventional-changelog-preset/releases/tag/v8.0.2) (1 month ago) <sub><sup>- conventional-changelog preset</sup></sub>
-
-- [sheerlox/cron-comparison `v1.3.11`](https://github.com/sheerlox/cron-comparison/releases/tag/v1.3.11) (1 month ago) <sub><sup>- Automated benchmark of all JavaScript cron implementations</sup></sub>
-
-- [semantic-release/commit-analyzer `v11.1.0`](https://github.com/semantic-release/commit-analyzer/releases/tag/v11.1.0) (1 month ago) <sub><sup>- :bulb: semantic-release plugin to analyze commits with conventional-changelog</sup></sub>
-
-- [semantic-release/release-notes-generator `v12.1.0`](https://github.com/semantic-release/release-notes-generator/releases/tag/v12.1.0) (1 month ago) <sub><sup>- :clipboard: semantic-release plugin to generate changelog content with conventional-changelog</sup></sub>
-
-- [amannn/action-semantic-pull-request `v5.4.0`](https://github.com/amannn/action-semantic-pull-request/releases/tag/v5.4.0) (1 month ago) <sub><sup>- A GitHub Action that ensures that your PR title matches the Conventional Commits spec.</sup></sub>
-
-- [insurgent-lab/commitlint-config `v19.0.0`](https://github.com/insurgent-lab/commitlint-config/releases/tag/v19.0.0) (1 month ago) <sub><sup>- commitlint config for @insurgent/conventional-changelog-preset</sup></sub>
-
-- [nestjs/nest-cli `10.2.1`](https://github.com/nestjs/nest-cli/releases/tag/10.2.1) (1 month ago) <sub><sup>- CLI tool for Nest applications 🍹 </sup></sub>
-
-- [kelektiv/node-cron `v3.1.6`](https://github.com/kelektiv/node-cron/releases/tag/v3.1.6) (1 month ago) <sub><sup>- Cron for NodeJS.</sup></sub>
-
-- [nestjs/schedule `4.0.0`](https://github.com/nestjs/schedule/releases/tag/4.0.0) (2 months ago) <sub><sup>- Schedule module for Nest framework (node.js) ⏰</sup></sub>
-
-- [ossf/scorecard `v4.13.1`](https://github.com/ossf/scorecard/releases/tag/v4.13.1) (2 months ago) <sub><sup>- OpenSSF Scorecard - Security health metrics for Open Source</sup></sub>
-
-- [harrisiirak/cron-parser `4.9.0`](https://github.com/harrisiirak/cron-parser/releases/tag/4.9.0) (4 months ago) <sub><sup>- Node.js library for parsing crontab instructions</sup></sub>
-
-- [phoenixframework/phoenix `v1.5.3`](https://github.com/phoenixframework/phoenix/releases/tag/v1.5.3) (3 years ago) <sub><sup>- Peace of mind from prototype to production</sup></sub>
-
-- [DefinitelyTyped/DefinitelyTyped `0.1.450`](https://github.com/DefinitelyTyped/DefinitelyTyped/releases/tag/0.1.450) (4 years ago) <sub><sup>- The repository for high quality TypeScript type definitions.</sup></sub>
-
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (6 days ago)
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (6 days ago)
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (6 days ago)
+- [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (6 days ago)
+- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#39;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  (6 days ago)
+- [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework (1 week ago)
+- [ericmj/decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic (1 week ago)
+- [riverrun/argon2_elixir](https://github.com/riverrun/argon2_elixir) - Elixir wrapper for the Argon2 password hashing algorithm (1 week ago)
+- [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors. (2 weeks ago)
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. (2 weeks ago)
 
 ---
 
