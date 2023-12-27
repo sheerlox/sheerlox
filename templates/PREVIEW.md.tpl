@@ -40,10 +40,15 @@
 
 ---
 
-#### 🫶 Recent release contributions
-{{range recentReleases 20}}
-- [{{.Name}} `{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}}){{with .Description}} <sub><sup>- {{.}}</sup></sub>{{end}}
-{{end}}
+#### 🫶 Recent contributions
+{{range recentContributions 20}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### ⭐ Recent stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
 
 ---
 
