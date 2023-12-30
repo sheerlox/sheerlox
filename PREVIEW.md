@@ -42,9 +42,9 @@
 
 #### 🫶 Recent contributions
 
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 day ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 week ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 week ago)
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 weeks ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (1 month ago)
@@ -65,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 day ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 week ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (1 week ago)
@@ -74,7 +75,6 @@
 - [ericmj/decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic (1 week ago)
 - [riverrun/argon2_elixir](https://github.com/riverrun/argon2_elixir) - Elixir wrapper for the Argon2 password hashing algorithm (1 week ago)
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors. (2 weeks ago)
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. (2 weeks ago)
 
 ---
 
