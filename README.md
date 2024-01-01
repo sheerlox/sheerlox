@@ -42,7 +42,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (3 days ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 week ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 week ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
@@ -65,7 +65,7 @@
 
 #### ⭐ Recent stars
 
-- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (2 days ago)
+- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (3 days ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 week ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (1 week ago)
