@@ -43,7 +43,7 @@
 #### 🫶 Recent contributions
 
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
-- [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (2 weeks ago)
+- [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (3 weeks ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (3 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 month ago)
@@ -66,15 +66,15 @@
 #### ⭐ Recent stars
 
 - [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 week ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
-- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (2 weeks ago)
-- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (2 weeks ago)
-- [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (2 weeks ago)
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#39;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  (2 weeks ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (3 weeks ago)
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (3 weeks ago)
+- [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (3 weeks ago)
+- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#39;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  (3 weeks ago)
 - [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework (3 weeks ago)
 - [ericmj/decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic (3 weeks ago)
 - [riverrun/argon2_elixir](https://github.com/riverrun/argon2_elixir) - Elixir wrapper for the Argon2 password hashing algorithm (3 weeks ago)
-- [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors. (4 weeks ago)
+- [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors. (1 month ago)
 
 ---
 
