@@ -42,7 +42,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (3 weeks ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (3 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
@@ -51,8 +51,8 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (1 month ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
 - [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (1 month ago)
 - [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (1 month ago)
@@ -65,7 +65,7 @@
 
 #### ⭐ Recent stars
 
-- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 week ago)
+- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (2 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (3 weeks ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (3 weeks ago)
