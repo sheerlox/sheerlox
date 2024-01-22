@@ -21,9 +21,10 @@
     <li>🗣 Javascript/Typescript Lead Developer for 6+ years</li>
     <li>👴 passionate about computers and web development for 12+ years</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>👷 in the early phases of co-founding a recruitment SaaS startup</li>
-    <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
+    <li>👷 in the early phases of co-founding <a href="https://links.sherlox.io/github-talentideal">a recruitment SaaS startup</a></li>
+    <li>🧑‍🏫 part-time instructor at @IUTInfoAix</li>
     <li>🫶 modest Open Source contributor & maintainer</li>
+    <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
 </ul>
 
 ---
@@ -48,23 +49,24 @@
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 month ago)
-- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 months ago)
+- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (2 months ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 months ago)
 - [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (2 months ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 months ago)
-- [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (2 months ago)
 - [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (2 months ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
+- [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (2 months ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 months ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (2 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 months ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 months ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 months ago)
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production (2 months ago)
 
 #### ⭐ Recent stars
 
+- [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (today)
 - [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (3 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 month ago)
@@ -74,7 +76,6 @@
 - [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework (1 month ago)
 - [ericmj/decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic (1 month ago)
 - [riverrun/argon2_elixir](https://github.com/riverrun/argon2_elixir) - Elixir wrapper for the Argon2 password hashing algorithm (1 month ago)
-- [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors. (1 month ago)
 
 ---
 
