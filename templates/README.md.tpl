@@ -22,7 +22,7 @@
     <li>👴 passionate about computers and web development for 12+ years</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
     <li>👷 in the early phases of co-founding <a href="https://links.sherlox.io/github-talentideal">a recruitment SaaS startup</a></li>
-    <li>🧑‍🏫 part-time instructor at @IUTInfoAix</li>
+    <li>🧑‍🏫 part-time instructor at <a href="https://github.com/IUTInfoAix">@IUTInfoAix</a></li>
     <li>🫶 modest Open Source contributor & maintainer</li>
     <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
 </ul>
