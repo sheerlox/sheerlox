@@ -43,7 +43,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (5 days ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 month ago)
@@ -66,13 +66,13 @@
 
 #### ⭐ Recent stars
 
-- [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (3 days ago)
-- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (3 weeks ago)
+- [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (4 days ago)
+- [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (4 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 month ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (1 month ago)
-- [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (1 month ago)
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#39;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  (1 month ago)
+- [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (1 month ago)
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#39;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  (1 month ago)
 - [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework (1 month ago)
 - [ericmj/decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic (1 month ago)
 - [riverrun/argon2_elixir](https://github.com/riverrun/argon2_elixir) - Elixir wrapper for the Argon2 password hashing algorithm (1 month ago)
