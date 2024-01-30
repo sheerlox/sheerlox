@@ -43,12 +43,12 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 day ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 days ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 month ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (2 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 months ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (2 months ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 months ago)
