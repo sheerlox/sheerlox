@@ -43,8 +43,8 @@
 
 #### 🫶 Recent contributions
 
-- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (2 days ago)
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 days ago)
+- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (3 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (5 days ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 month ago)
