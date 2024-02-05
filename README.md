@@ -43,7 +43,7 @@
 
 #### 🫶 Recent contributions
 
-- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (5 days ago)
+- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (6 days ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent stars
 
-- [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (1 week ago)
+- [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (2 weeks ago)
 - [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 month ago)
