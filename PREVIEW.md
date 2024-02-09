@@ -43,8 +43,8 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (3 days ago)
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (3 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 days ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (4 days ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (1 week ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 day ago)
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web browser UI and low-code. It&#39;s like jq, tail, less, grep and awk merged together and available in a clean UI. (1 day ago)
-- [bamorim/typed_ecto_schema](https://github.com/bamorim/typed_ecto_schema) - A library to define Ecto schemas with typespecs without all the boilerplate code. (2 days ago)
-- [phoenixframework/dns_cluster](https://github.com/phoenixframework/dns_cluster) - Simple DNS clustering for distributed Elixir nodes (3 days ago)
+- [googlecreativelab/digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) - Code components for starting your own Digital Wellbeing experiments (1 day ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (2 days ago)
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web browser UI and low-code. It&#39;s like jq, tail, less, grep and awk merged together and available in a clean UI. (2 days ago)
+- [bamorim/typed_ecto_schema](https://github.com/bamorim/typed_ecto_schema) - A library to define Ecto schemas with typespecs without all the boilerplate code. (3 days ago)
+- [phoenixframework/dns_cluster](https://github.com/phoenixframework/dns_cluster) - Simple DNS clustering for distributed Elixir nodes (4 days ago)
 - [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (2 weeks ago)
 - [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) (1 month ago)
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner (1 month ago)
-- [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) - ModSecurity v3 Nginx Connector (1 month ago)
 
 ---
 
