@@ -43,10 +43,10 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (5 days ago)
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (5 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (6 days ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (6 days ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (1 week ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 weeks ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 weeks ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (1 month ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 months ago)
@@ -54,8 +54,8 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 months ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (2 months ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 months ago)
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 months ago)
 - [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (2 months ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 months ago)
 - [insurgent-lab/json-main-test](https://github.com/insurgent-lab/json-main-test) - Package that contains a single main.json file (with a main field in package.json) for testing purposes (2 months ago)
 - [insurgent-lab/json-index-test](https://github.com/insurgent-lab/json-index-test) - Package that contains a single index.json file (without a main field in package.json) for testing purposes (2 months ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 months ago)
@@ -66,11 +66,11 @@
 
 #### ⭐ Recent stars
 
-- [googlecreativelab/digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) - Code components for starting your own Digital Wellbeing experiments (2 days ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (3 days ago)
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web browser UI and low-code. It&#39;s like jq, tail, less, grep and awk merged together and available in a clean UI. (3 days ago)
-- [bamorim/typed_ecto_schema](https://github.com/bamorim/typed_ecto_schema) - A library to define Ecto schemas with typespecs without all the boilerplate code. (4 days ago)
-- [phoenixframework/dns_cluster](https://github.com/phoenixframework/dns_cluster) - Simple DNS clustering for distributed Elixir nodes (5 days ago)
+- [googlecreativelab/digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) - Code components for starting your own Digital Wellbeing experiments (3 days ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (4 days ago)
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web browser UI and low-code. It&#39;s like jq, tail, less, grep and awk merged together and available in a clean UI. (4 days ago)
+- [bamorim/typed_ecto_schema](https://github.com/bamorim/typed_ecto_schema) - A library to define Ecto schemas with typespecs without all the boilerplate code. (5 days ago)
+- [phoenixframework/dns_cluster](https://github.com/phoenixframework/dns_cluster) - Simple DNS clustering for distributed Elixir nodes (6 days ago)
 - [RimacTechnology/semantic-release-monorepo](https://github.com/RimacTechnology/semantic-release-monorepo) - Enhanced semantic-release by enabling simplified and automatic package publishing in multi-package repositories (2 weeks ago)
 - [KallocainSynthemesc/rest](https://github.com/KallocainSynthemesc/rest) - rest presentation (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
