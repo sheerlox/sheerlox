@@ -66,10 +66,10 @@
 
 #### ⭐ Recent stars
 
-- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (3 days ago)
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (4 days ago)
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (5 days ago)
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (3 weeks ago)
+- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (4 days ago)
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (5 days ago)
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (6 days ago)
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (4 weeks ago)
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services (4 weeks ago)
 - [lpil/mix-test.watch](https://github.com/lpil/mix-test.watch) - 🎠   Because TDD is awesome (4 weeks ago)
 - [googlecreativelab/digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) - Code components for starting your own Digital Wellbeing experiments (1 month ago)
