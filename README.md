@@ -43,7 +43,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 day ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 days ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (1 month ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent stars
 
-- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (1 week ago)
+- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (2 weeks ago)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (2 weeks ago)
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (2 weeks ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
