@@ -43,15 +43,15 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 day ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 days ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (5 days ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
-- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (1 month ago)
+- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (2 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 months ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (3 months ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (3 months ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 months ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 months ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (4 months ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 months ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
-- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (1 day ago)
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (2 days ago)
-- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (2 weeks ago)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (1 day ago)
+- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (2 days ago)
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (3 days ago)
+- [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (3 weeks ago)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (3 weeks ago)
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (3 weeks ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services (1 month ago)
 - [lpil/mix-test.watch](https://github.com/lpil/mix-test.watch) - 🎠   Because TDD is awesome (1 month ago)
 - [googlecreativelab/digital-wellbeing-experiments-toolkit](https://github.com/googlecreativelab/digital-wellbeing-experiments-toolkit) - Code components for starting your own Digital Wellbeing experiments (1 month ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 month ago)
 
 ---
 
