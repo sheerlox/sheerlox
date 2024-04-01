@@ -43,8 +43,8 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (3 days ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (6 days ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 days ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (2 months ago)
@@ -66,10 +66,10 @@
 
 #### ⭐ Recent stars
 
-- [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (1 day ago)
-- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (2 days ago)
-- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (3 days ago)
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (4 days ago)
+- [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (2 days ago)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (3 days ago)
+- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (4 days ago)
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (5 days ago)
 - [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (3 weeks ago)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (3 weeks ago)
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (3 weeks ago)
