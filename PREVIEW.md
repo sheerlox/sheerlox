@@ -43,7 +43,8 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (6 days ago)
+- [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (1 day ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (1 month ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (1 month ago)
@@ -62,18 +63,17 @@
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (4 months ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 months ago)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (4 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 months ago)
 
 #### ⭐ Recent stars
 
-- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (2 days ago)
-- [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (4 days ago)
-- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (5 days ago)
-- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (6 days ago)
+- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (3 days ago)
+- [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (5 days ago)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (6 days ago)
+- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (1 week ago)
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (1 week ago)
 - [hexpm/search](https://github.com/hexpm/search) - search.hex.pm (3 weeks ago)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (3 weeks ago)
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (3 weeks ago)
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (4 weeks ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services (1 month ago)
 
