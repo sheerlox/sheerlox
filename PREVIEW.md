@@ -43,9 +43,9 @@
 
 #### 🫶 Recent contributions
 
-- [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (2 days ago)
-- [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (3 days ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 days ago)
+- [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (3 days ago)
+- [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (4 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (5 days ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (1 week ago)
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (1 week ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
@@ -66,8 +66,8 @@
 
 #### ⭐ Recent stars
 
-- [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework (3 days ago)
-- [ash-project/splode](https://github.com/ash-project/splode) - Aggregatable and consistent errors for Elixir (4 days ago)
+- [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework (4 days ago)
+- [ash-project/splode](https://github.com/ash-project/splode) - Aggregatable and consistent errors for Elixir (5 days ago)
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (1 week ago)
 - [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (2 weeks ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (2 weeks ago)
