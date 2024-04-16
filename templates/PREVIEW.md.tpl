@@ -65,13 +65,13 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://holopin.io/@sheerlox" style="display: inline-block;">
     <img src="https://holopin.me/sheerlox" alt="Pierre Cavin's Holopin badges" height="253px" />
   </a>
 </div>
 
----
+--- -->
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" style="text-decoration: none;">
