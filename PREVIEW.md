@@ -61,8 +61,8 @@
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (4 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 months ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 months ago)
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (4 months ago)
 - [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (4 months ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (4 months ago)
 
 #### ⭐ Recent stars
 
@@ -91,13 +91,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://holopin.io/@sheerlox" style="display: inline-block;">
-    <img src="https://holopin.me/sheerlox" alt="Pierre Cavin's Holopin badges" height="253px" />
-  </a>
-</div>
 
----
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" style="text-decoration: none;">
