@@ -43,15 +43,15 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (6 days ago)
-- [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (6 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
+- [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 week ago)
 - [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (1 week ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (1 week ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 week ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (2 weeks ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 weeks ago)
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (2 weeks ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 weeks ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (2 months ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (2 months ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (2 months ago)
@@ -66,10 +66,10 @@
 
 #### ⭐ Recent stars
 
-- [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe (6 days ago)
+- [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe (1 week ago)
 - [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework (1 week ago)
 - [ash-project/splode](https://github.com/ash-project/splode) - Aggregatable and consistent errors for Elixir (1 week ago)
-- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (2 weeks ago)
+- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (3 weeks ago)
 - [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (3 weeks ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (3 weeks ago)
 - [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications (3 weeks ago)
