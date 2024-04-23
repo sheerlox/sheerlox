@@ -47,7 +47,7 @@
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 week ago)
 - [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (1 week ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (1 week ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 week ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 weeks ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (2 weeks ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 weeks ago)
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (2 weeks ago)
@@ -68,7 +68,7 @@
 
 - [beam-community/stripity-stripe](https://github.com/beam-community/stripity-stripe) - An Elixir Library for Stripe (1 week ago)
 - [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework (1 week ago)
-- [ash-project/splode](https://github.com/ash-project/splode) - Aggregatable and consistent errors for Elixir (1 week ago)
+- [ash-project/splode](https://github.com/ash-project/splode) - Aggregatable and consistent errors for Elixir (2 weeks ago)
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (3 weeks ago)
 - [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells (3 weeks ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications. (3 weeks ago)
