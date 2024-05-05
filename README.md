@@ -44,8 +44,8 @@
 #### 🫶 Recent contributions
 
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 day ago)
-- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (2 days ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (2 days ago)
+- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (3 days ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 days ago)
 - [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (1 week ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 week ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 week ago)
@@ -59,14 +59,14 @@
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (1 month ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (1 month ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (2 months ago)
-- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (2 months ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (3 months ago)
 - [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (3 months ago)
 - [coreruleset/documentation](https://github.com/coreruleset/documentation) - CRS Documentation (4 months ago)
 - [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution. (4 months ago)
 
 #### ⭐ Recent stars
 
-- [linthesia/linthesia](https://github.com/linthesia/linthesia) - Linthesia is a game. A game of playing music (3 days ago)
+- [linthesia/linthesia](https://github.com/linthesia/linthesia) - Linthesia is a game. A game of playing music (4 days ago)
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) (1 week ago)
 - [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir (1 week ago)
 - [ash-project/ash_cloak](https://github.com/ash-project/ash_cloak) -  An Ash extension to seamlessly encrypt and decrypt resource attributes. (1 week ago)
