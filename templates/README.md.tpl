@@ -53,13 +53,21 @@
 
 ---
 
+<p align="center">
+    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&talent-ideal/semantic_release&talent-ideal/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
+        <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
+    </a>
+</p>
+
+---
+
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com" style="display: inline-block;">
-    <img src="https://github-readme-streak-stats.sherlox.io/?user=sheerlox&theme=default&mode=weekly&disable_animations=true" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
+    <img src="assets/streak-stats.svg" alt="Pierre Cavin's GitHub Streak Stats" height="247px" />
   </a>
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Now Playing" height="240px" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Status" height="240px" />
   </a>
 </div>
 
