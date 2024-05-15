@@ -2,5 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>insurgent-lab/.github//renovate/base"],
   "automerge": true,
-  "ignoreTests": true
+  "ignoreTests": true,
+  "commitMessageSuffix": "[skip ci]"
 }
