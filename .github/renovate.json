@@ -1,4 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>insurgent-lab/.github//renovate/base"]
+  "extends": ["github>insurgent-lab/.github//renovate/base"],
+  "automerge": true,
+  "ignoreTests": true
 }
