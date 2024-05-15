@@ -51,6 +51,6 @@ jobs:
         with:
           commit_message: "chore(assets): update generated images cache"
           branch: main
-          commit_user_name: github-readme-stats 🤖
+          commit_user_name: Marvin the Paranoid Android 🤖
           commit_user_email: actions@github.com
-          commit_author: github-readme-stats 🤖 <actions@github.com>
+          commit_author: Marvin the Paranoid Android 🤖 <actions@github.com>
