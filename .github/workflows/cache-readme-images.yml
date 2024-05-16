@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Download stats image
-        run: curl 'https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true' -o stats.svg
+        run: curl 'https://github-readme-stats.sherlox.io/api?username=sheerlox&show_icons=true&show=discussions_answered,prs_merged&hide=prs' -o stats.svg
 
       - name: Download top languages image
         run: curl 'https://github-readme-stats.sherlox.io/api/top-langs/?username=sheerlox&size_weight=0.85&count_weight=0.15&layout=compact&exclude_repo=cerfi-notebooks,freqtrade-datas,sheerlox.github.io&hide=hcl,css,handlebars,smarty,html' -o top-langs.svg
