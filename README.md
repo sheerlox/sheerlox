@@ -66,9 +66,9 @@
 
 #### ⭐ Recent stars
 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (1 day ago)
-- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (1 day ago)
-- [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (6 days ago)
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (2 days ago)
+- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (2 days ago)
+- [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (1 week ago)
 - [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir (1 week ago)
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML (1 week ago)
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library (1 week ago)
