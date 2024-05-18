@@ -46,7 +46,7 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 week ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (2 weeks ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (2 weeks ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (3 weeks ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (2 days ago)
-- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (2 days ago)
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (3 days ago)
+- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (3 days ago)
 - [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (1 week ago)
 - [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir (1 week ago)
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML (1 week ago)
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library (1 week ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
 - [linthesia/linthesia](https://github.com/linthesia/linthesia) - Linthesia is a game. A game of playing music (2 weeks ago)
-- [phoenixframework/flame](https://github.com/phoenixframework/flame) (2 weeks ago)
-- [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir (2 weeks ago)
+- [phoenixframework/flame](https://github.com/phoenixframework/flame) (3 weeks ago)
+- [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir (3 weeks ago)
 
 ---
 
