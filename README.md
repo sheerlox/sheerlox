@@ -51,7 +51,7 @@
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (3 weeks ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 weeks ago)
 - [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (4 weeks ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (4 weeks ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 month ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 month ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
+- [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (1 day ago)
+- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim (1 day ago)
+- [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim (1 day ago)
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 day ago)
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 day ago)
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (1 week ago)
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (1 week ago)
-- [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (1 week ago)
+- [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (2 weeks ago)
 - [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir (2 weeks ago)
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML (2 weeks ago)
-- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library (2 weeks ago)
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 weeks ago)
-- [linthesia/linthesia](https://github.com/linthesia/linthesia) - Linthesia is a game. A game of playing music (3 weeks ago)
-- [phoenixframework/flame](https://github.com/phoenixframework/flame) (3 weeks ago)
-- [ash-project/spark](https://github.com/ash-project/spark) - Tooling for building DSLs in Elixir (3 weeks ago)
 
 ---
 
