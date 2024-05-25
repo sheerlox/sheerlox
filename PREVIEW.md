@@ -46,11 +46,11 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 weeks ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (2 weeks ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 weeks ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (3 weeks ago)
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (4 weeks ago)
-- [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (4 weeks ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 month ago)
+- [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (1 month ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 month ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 month ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
-- [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (1 day ago)
-- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim (1 day ago)
-- [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim (1 day ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (1 day ago)
-- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 day ago)
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system (1 week ago)
-- [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (1 week ago)
-- [sawhney17/logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) (2 weeks ago)
-- [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir (2 weeks ago)
-- [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML (2 weeks ago)
+- [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (1 day ago)
+- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (1 day ago)
+- [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (1 day ago)
+- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (1 day ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 day ago)
+- [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (2 days ago)
+- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim (2 days ago)
+- [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim (2 days ago)
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (2 days ago)
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (2 days ago)
 
 ---
 
