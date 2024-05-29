@@ -62,20 +62,20 @@
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (1 month ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (3 months ago)
 - [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (3 months ago)
-- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (3 months ago)
+- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (4 months ago)
 
 #### ⭐ Recent stars
 
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (1 day ago)
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (3 days ago)
-- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (3 days ago)
-- [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (4 days ago)
-- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (4 days ago)
-- [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (4 days ago)
-- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (4 days ago)
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (4 days ago)
-- [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (5 days ago)
-- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim (5 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 day ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (2 days ago)
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (4 days ago)
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (4 days ago)
+- [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (5 days ago)
+- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (5 days ago)
+- [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (5 days ago)
+- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (5 days ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (5 days ago)
+- [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (6 days ago)
 
 ---
 
