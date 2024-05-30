@@ -1,6 +1,9 @@
 <h2 style="display:inline" align="center">🕵️ Hello there, welcome to my GitHub! 👋</h2>
 <br />
 <p align="center">
+    <a href="https://links.sherlox.io/gh-x" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=X" alt="X">
+    </a>
     <a href="https://links.sherlox.io/github-linkedin" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -18,13 +21,13 @@
 ---
 
 <ul>
-    <li>🗣 Javascript/Typescript Lead Developer for 6+ years</li>
-    <li>👴 passionate about computers and web development for 12+ years</li>
+    <li>👴 passionate about building stuff on computers for 13+ years (2010)</li>
+    <li>🗣 Javascript/Typescript Lead Developer for 8+ years (2015)</li>
+    <li>💜 currently learning Elixir</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>👷 co-founder and CTO of <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
-    <li>🧑‍🏫 part-time instructor at <a href="https://github.com/IUTInfoAix">@IUTInfoAix</a></li>
-    <li>🫶 modest Open Source contributor & maintainer</li>
-    <li>💜 currently learning Elixir (on <a href="https://links.sherlox.io/github-exercism-elixir-track">Exercism</a>), which I plan to make my main language</li>
+    <li>👷 co-founder & CTO <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
+    <li>🧑‍🏫 part-time university instructor</li>
+    <li>🫶 low-key FOSS maintainer</li>
 </ul>
 
 ---
