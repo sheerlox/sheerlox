@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic grader program written in Elixir (1 day ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic grader framework written in Elixir (1 day ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 weeks ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (3 weeks ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (3 weeks ago)
@@ -69,15 +69,15 @@
 
 #### ⭐ Recent stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (2 days ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (3 days ago)
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (5 days ago)
-- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (5 days ago)
-- [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (6 days ago)
-- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (6 days ago)
-- [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (6 days ago)
-- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (6 days ago)
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (6 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (3 days ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (4 days ago)
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (6 days ago)
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (6 days ago)
+- [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (1 week ago)
+- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (1 week ago)
+- [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (1 week ago)
+- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (1 week ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 week ago)
 - [jiriks74/presence.nvim](https://github.com/jiriks74/presence.nvim) - Discord Rich Presence for Neovim (1 week ago)
 
 ---
