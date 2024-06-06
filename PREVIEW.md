@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 day ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 days ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
@@ -69,7 +69,7 @@
 
 #### ⭐ Recent stars
 
-- [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (5 days ago)
+- [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (6 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 week ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (1 week ago)
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (1 week ago)
