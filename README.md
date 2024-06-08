@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (3 days ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (4 days ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
@@ -61,7 +61,7 @@
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
 - [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (1 month ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (1 month ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (1 month ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (2 months ago)
 - [sheerlox/ash_manage_relationship_update_repro_phoenix](https://github.com/sheerlox/ash_manage_relationship_update_repro_phoenix) -  (2 months ago)
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (3 months ago)
@@ -72,8 +72,8 @@
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (1 week ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 week ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (1 week ago)
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (1 week ago)
-- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (1 week ago)
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (2 weeks ago)
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (2 weeks ago)
 - [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (2 weeks ago)
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (2 weeks ago)
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (2 weeks ago)
