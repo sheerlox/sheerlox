@@ -25,7 +25,7 @@
     <li>🗣 Javascript/Typescript Lead Developer for 8+ years (2015)</li>
     <li>💜 currently learning Elixir</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>👷 co-founder & CTO <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
+    <li>👷 currently building <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
     <li>🧑‍🏫 part-time university instructor</li>
     <li>🫶 low-key FOSS maintainer</li>
 </ul>
