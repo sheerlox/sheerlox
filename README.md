@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (5 days ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 day ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
@@ -59,7 +59,7 @@
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 month ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
-- [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (1 month ago)
+- [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (2 months ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (2 months ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
 - [sheerlox/ash_manage_relationship_update_repro](https://github.com/sheerlox/ash_manage_relationship_update_repro) -  (2 months ago)
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent stars
 
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 day ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (1 week ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 week ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (1 week ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (2 weeks ago)
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (2 weeks ago)
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (2 weeks ago)
 - [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (2 weeks ago)
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (2 weeks ago)
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim (2 weeks ago)
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (2 weeks ago)
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (2 weeks ago)
 
 ---
 
