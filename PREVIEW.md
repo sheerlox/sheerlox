@@ -46,19 +46,19 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 day ago)
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 day ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 days ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (1 month ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 month ago)
 - [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (1 month ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 month ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 month ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
-- [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 month ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 month ago)
+- [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (1 month ago)
 - [open-teach-lab/TP_Mock_Solution](https://github.com/open-teach-lab/TP_Mock_Solution) -  (2 months ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (2 months ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
@@ -69,9 +69,9 @@
 
 #### ⭐ Recent stars
 
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 day ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 days ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (1 week ago)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 week ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (2 weeks ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (2 weeks ago)
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (2 weeks ago)
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (2 weeks ago)
