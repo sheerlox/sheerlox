@@ -46,20 +46,20 @@
 
 #### 🫶 Recent contributions
 
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (1 day ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 days ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 days ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 days ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 days ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (3 days ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 days ago)
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (5 days ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (2 days ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (2 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 days ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 days ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 days ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 days ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 days ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (5 days ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (6 days ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (1 month ago)
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 month ago)
 - [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (1 month ago)
+- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (1 month ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 month ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (2 months ago)
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent stars
 
-- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (2 days ago)
-- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (3 days ago)
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (5 days ago)
+- [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (1 day ago)
+- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (3 days ago)
+- [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (4 days ago)
+- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (6 days ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (2 weeks ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (2 weeks ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (2 weeks ago)
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (2 weeks ago)
-- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (2 weeks ago)
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua. (3 weeks ago)
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: (3 weeks ago)
 - [rose-pine/google-chrome](https://github.com/rose-pine/google-chrome) - Soho vibes for Google Chrome (3 weeks ago)
-- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix (3 weeks ago)
 
 ---
 
