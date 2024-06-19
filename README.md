@@ -46,9 +46,9 @@
 
 #### 🫶 Recent contributions
 
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (5 days ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (5 days ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (6 days ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (6 days ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (6 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (1 week ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 week ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
@@ -69,10 +69,10 @@
 
 #### ⭐ Recent stars
 
-- [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (2 days ago)
-- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (3 days ago)
-- [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (4 days ago)
-- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (6 days ago)
+- [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (3 days ago)
+- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (4 days ago)
+- [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (5 days ago)
+- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (1 week ago)
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (1 week ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 week ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (2 weeks ago)
