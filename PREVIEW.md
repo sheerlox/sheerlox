@@ -46,11 +46,11 @@
 
 #### 🫶 Recent contributions
 
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (5 days ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (5 days ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (6 days ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (6 days ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (1 week ago)
 - [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (1 week ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 weeks ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
@@ -69,16 +69,16 @@
 
 #### ⭐ Recent stars
 
-- [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (5 days ago)
+- [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (6 days ago)
 - [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (1 week ago)
 - [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (1 week ago)
 - [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (1 week ago)
-- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (1 week ago)
+- [hexpm/bob](https://github.com/hexpm/bob) - The Builder (2 weeks ago)
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (2 weeks ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 weeks ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (3 weeks ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (4 weeks ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (4 weeks ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) (1 month ago)
 
 ---
 
