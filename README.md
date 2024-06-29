@@ -69,16 +69,16 @@
 
 #### ⭐ Recent stars
 
-- [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (2 days ago)
+- [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (1 day ago)
+- [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (3 days ago)
 - [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (1 week ago)
 - [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (1 week ago)
-- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (1 week ago)
+- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (2 weeks ago)
 - [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (2 weeks ago)
 - [hexpm/bob](https://github.com/hexpm/bob) - The Builder (2 weeks ago)
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (2 weeks ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 weeks ago)
 - [membraneframework/bunch](https://github.com/membraneframework/bunch) - A bunch of helper functions, intended to make life easier (4 weeks ago)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform (1 month ago)
 
 ---
 
