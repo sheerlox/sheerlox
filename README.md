@@ -46,17 +46,17 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 week ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (2 weeks ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (2 weeks ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (2 weeks ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (3 weeks ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (3 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (3 weeks ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 weeks ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 weeks ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (3 weeks ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
-- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 month ago)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (2 months ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (2 months ago)
 - [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (2 months ago)
 - [sheerlox/StackOverflow-Answers-Code](https://github.com/sheerlox/StackOverflow-Answers-Code) -  (2 months ago)
@@ -69,10 +69,10 @@
 
 #### ⭐ Recent stars
 
-- [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (3 days ago)
-- [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (5 days ago)
+- [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (4 days ago)
+- [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (6 days ago)
 - [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (1 week ago)
-- [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (1 week ago)
+- [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (2 weeks ago)
 - [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (2 weeks ago)
 - [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (2 weeks ago)
 - [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (2 weeks ago)
