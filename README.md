@@ -69,12 +69,12 @@
 
 #### ⭐ Recent stars
 
-- [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (5 days ago)
+- [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (6 days ago)
 - [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (1 week ago)
 - [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (1 week ago)
 - [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (2 weeks ago)
 - [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (2 weeks ago)
-- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (2 weeks ago)
+- [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (3 weeks ago)
 - [mimiquate/blend](https://github.com/mimiquate/blend) - 🥣 Test your package against different versions of its dependencies (3 weeks ago)
 - [hexpm/bob](https://github.com/hexpm/bob) - The Builder (3 weeks ago)
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring. (3 weeks ago)
