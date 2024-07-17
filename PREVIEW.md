@@ -69,10 +69,10 @@
 
 #### ⭐ Recent stars
 
-- [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (4 days ago)
+- [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (5 days ago)
 - [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (2 weeks ago)
 - [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (2 weeks ago)
-- [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (2 weeks ago)
+- [elixir-saas/resend-elixir](https://github.com/elixir-saas/resend-elixir) - Resend email API client and Swoosh adapter (3 weeks ago)
 - [securityelixir/potion_shop](https://github.com/securityelixir/potion_shop) - A vulnerable Elixir and Phoenix application for learning web security  (3 weeks ago)
 - [ash-project/ash_archival](https://github.com/ash-project/ash_archival) - An Ash extension to implement archival (soft deletion) for resources. (1 month ago)
 - [zachdaniel/tails](https://github.com/zachdaniel/tails) - Utilities for working with tailwind classes, like semantic merge, and conditional class lists. (1 month ago)
