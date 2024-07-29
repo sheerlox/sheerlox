@@ -69,8 +69,8 @@
 
 #### ⭐ Recent stars
 
-- [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (5 days ago)
-- [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (6 days ago)
+- [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (6 days ago)
+- [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (1 week ago)
 - [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (1 week ago)
 - [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (1 week ago)
 - [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (2 weeks ago)
