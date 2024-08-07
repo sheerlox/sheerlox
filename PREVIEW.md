@@ -71,8 +71,8 @@
 
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 weeks ago)
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (2 weeks ago)
-- [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (2 weeks ago)
-- [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (2 weeks ago)
+- [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (3 weeks ago)
+- [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (3 weeks ago)
 - [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (3 weeks ago)
 - [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (1 month ago)
 - [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (1 month ago)
