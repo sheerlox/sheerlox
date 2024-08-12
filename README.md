@@ -48,8 +48,8 @@
 
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 month ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (1 month ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (1 month ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (2 months ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (2 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (2 months ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (2 months ago)
@@ -70,7 +70,7 @@
 #### ⭐ Recent stars
 
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 weeks ago)
-- [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (2 weeks ago)
+- [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (3 weeks ago)
 - [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (3 weeks ago)
 - [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (3 weeks ago)
 - [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (1 month ago)
