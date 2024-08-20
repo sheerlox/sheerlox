@@ -69,7 +69,7 @@
 
 #### ⭐ Recent stars
 
-- [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (3 weeks ago)
+- [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (4 weeks ago)
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (4 weeks ago)
 - [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (1 month ago)
 - [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (1 month ago)
