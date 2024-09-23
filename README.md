@@ -69,7 +69,7 @@
 
 #### ⭐ Recent stars
 
-- [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (4 weeks ago)
+- [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (1 month ago)
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 months ago)
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (2 months ago)
 - [talent-ideal/content_security_policy](https://github.com/talent-ideal/content_security_policy) - Content Security Policy Library for Elixir and Plug (2 months ago)
