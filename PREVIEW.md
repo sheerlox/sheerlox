@@ -69,7 +69,7 @@
 
 #### ⭐ Recent stars
 
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (2 days ago)
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (3 days ago)
 - [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (1 month ago)
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 months ago)
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power. (2 months ago)
