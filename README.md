@@ -47,10 +47,10 @@
 #### 🫶 Recent contributions
 
 - [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) -  (1 day ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 months ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 months ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (3 months ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 months ago)
 - [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (3 months ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (3 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (3 months ago)
 - [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (3 months ago)
@@ -69,7 +69,8 @@
 
 #### ⭐ Recent stars
 
-- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) (1 day ago)
+- [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (1 day ago)
+- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) (2 days ago)
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (1 week ago)
 - [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (1 month ago)
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 months ago)
@@ -78,7 +79,6 @@
 - [mbramson/content_security_policy](https://github.com/mbramson/content_security_policy) - Content Security Policy Library for Elixir and Plug (2 months ago)
 - [mnestorov/regex-patterns](https://github.com/mnestorov/regex-patterns) - This repository contains regular expression (regex) patterns for validating phone numbers postal codes, VAT numbers, dates, currency, credit/debit cards etc. for European countries (but not only). (2 months ago)
 - [launchscout/ash_table](https://github.com/launchscout/ash_table) - A sortable paginated table component for Ash resources (3 months ago)
-- [bitwalker/timex](https://github.com/bitwalker/timex) - A complete date/time library for Elixir projects. (3 months ago)
 
 ---
 
