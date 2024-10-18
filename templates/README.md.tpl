@@ -70,7 +70,7 @@
   </a>
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Status" height="240px" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Status" height="240px" />
   </a>
 </div>
 
