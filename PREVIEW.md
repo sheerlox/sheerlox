@@ -46,12 +46,12 @@
 
 #### 🫶 Recent contributions
 
-- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (1 day ago)
+- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (today)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (4 months ago)
 - [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (4 months ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (4 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 months ago)
@@ -96,7 +96,7 @@
   </a>
 
   <a href="https://links.sherlox.io/github-spotify" style="display: inline-block;">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Status" height="240px" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6ridtm5cbc0y9bf5qmtqpoupv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Pierre Cavin's Spotify Status" height="240px" />
   </a>
 </div>
 
