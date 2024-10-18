@@ -46,12 +46,12 @@
 
 #### 🫶 Recent contributions
 
-- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (today)
+- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (1 day ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
-- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 months ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (3 months ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (4 months ago)
+- [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
+- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (4 months ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (4 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 months ago)
@@ -69,14 +69,14 @@
 
 #### ⭐ Recent stars
 
-- [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir (1 day ago)
-- [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity. (2 days ago)
-- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks (2 days ago)
+- [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir (2 days ago)
+- [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity. (3 days ago)
+- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks (3 days ago)
 - [wakatime/jupyterlab-wakatime](https://github.com/wakatime/jupyterlab-wakatime) - WakaTime for JupyterLab (1 week ago)
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir (1 week ago)
-- [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (1 week ago)
+- [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (2 weeks ago)
 - [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (2 weeks ago)
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (2 weeks ago)
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (3 weeks ago)
 - [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (1 month ago)
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (2 months ago)
 
