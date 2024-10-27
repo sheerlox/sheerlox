@@ -46,8 +46,8 @@
 
 #### 🫶 Recent contributions
 
-- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (3 days ago)
-- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 weeks ago)
+- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (4 days ago)
+- [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (3 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (4 months ago)
@@ -77,7 +77,7 @@
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir (2 weeks ago)
 - [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (3 weeks ago)
 - [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (3 weeks ago)
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (4 weeks ago)
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (1 month ago)
 - [sheerlox/bricksBot](https://github.com/sheerlox/bricksBot) - ETL &amp; task automation server for Bricks.co (2 months ago)
 
 ---
