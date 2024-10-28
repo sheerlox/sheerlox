@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (4 days ago)
+- [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (5 days ago)
 - [talent-ideal/semantic-release-hex](https://github.com/talent-ideal/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (3 weeks ago)
 - [talent-ideal/semantic_release](https://github.com/talent-ideal/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
@@ -74,7 +74,7 @@
 - [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity. (1 week ago)
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks (1 week ago)
 - [wakatime/jupyterlab-wakatime](https://github.com/wakatime/jupyterlab-wakatime) - WakaTime for JupyterLab (2 weeks ago)
-- [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir (2 weeks ago)
+- [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir (3 weeks ago)
 - [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (3 weeks ago)
 - [talent-ideal/skill_sanity](https://github.com/talent-ideal/skill_sanity) - Skill name standardization API for tech recruitment platforms (3 weeks ago)
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (1 month ago)
