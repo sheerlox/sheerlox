@@ -46,8 +46,8 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 day ago)
-- [talent-insights/semantic-release-hex](https://github.com/talent-insights/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (3 weeks ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [talent-insights/semantic-release-hex](https://github.com/talent-insights/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (4 weeks ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
 - [talent-insights/semantic_release](https://github.com/talent-insights/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
 - [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (4 months ago)
@@ -75,7 +75,7 @@
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks (2 weeks ago)
 - [wakatime/jupyterlab-wakatime](https://github.com/wakatime/jupyterlab-wakatime) - WakaTime for JupyterLab (3 weeks ago)
 - [elixir-explorer/explorer](https://github.com/elixir-explorer/explorer) - Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir (3 weeks ago)
-- [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (4 weeks ago)
+- [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (1 month ago)
 - [talent-insights/skill_sanity](https://github.com/talent-insights/skill_sanity) - Skill name standardization API for tech recruitment platforms (1 month ago)
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (1 month ago)
 - [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (3 months ago)
