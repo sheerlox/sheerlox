@@ -23,7 +23,7 @@ jobs:
         run: curl 'https://github-readme-streak-stats.sherlox.io/?user=sheerlox&theme=default&mode=weekly&disable_animations=true' -o streak-stats.svg
 
       - name: Download star history image
-        run: curl 'https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/gpg_ex,talent-ideal/semantic_release,talent-ideal/semantic-release-hex&type=Timeline' -o star-history.svg
+        run: curl 'https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/gpg_ex,talent-insights/semantic_release,talent-insights/semantic-release-hex&type=Timeline' -o star-history.svg
 
       - name: Upload artifacts
         uses: actions/upload-artifact@b4b15b8c7c6ac21ea08fcf65892d2ee8f75cf882 # v4.4.3

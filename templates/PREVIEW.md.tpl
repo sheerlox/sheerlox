@@ -25,7 +25,7 @@
     <li>🗣 Javascript/Typescript Lead Developer for 8+ years (2015)</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
     <li>💜 currently learning Elixir</li>
-    <li>👷 currently building <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
+    <li>👷 currently building <a href="https://github.com/talent-insights">@Talent-Insights</a></li>
     <li>🧑‍🏫 part-time university instructor</li>
     <li>🫶 low-key FOSS maintainer</li>
 </ul>
@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&talent-ideal/semantic_release&talent-ideal/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
+    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&talent-insights/semantic_release&talent-insights/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
         <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
