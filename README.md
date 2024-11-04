@@ -25,7 +25,7 @@
     <li>🗣 Javascript/Typescript Lead Developer for 8+ years (2015)</li>
     <li>🧑‍💻 strong inclination toward backend development</li>
     <li>💜 currently learning Elixir</li>
-    <li>👷 currently building <a href="https://github.com/Talent-Ideal">@Talent-Ideal</a></li>
+    <li>👷 currently building <a href="https://github.com/talent-insights">@Talent-Insights</a></li>
     <li>🧑‍🏫 part-time university instructor</li>
     <li>🫶 low-key FOSS maintainer</li>
 </ul>
@@ -69,6 +69,7 @@
 
 #### ⭐ Recent stars
 
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (today)
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (2 weeks ago)
 - [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir (2 weeks ago)
 - [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity. (2 weeks ago)
@@ -78,12 +79,11 @@
 - [plgrazon/Raect](https://github.com/plgrazon/Raect) - I think you misspelled React. (1 month ago)
 - [talent-insights/skill_sanity](https://github.com/talent-insights/skill_sanity) - Skill name standardization API for tech recruitment platforms (1 month ago)
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. (1 month ago)
-- [vercel/resolve-node](https://github.com/vercel/resolve-node) - API endpoint to resolve an arbitrary Node.js version with semver support (3 months ago)
 
 ---
 
 <p align="center">
-    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&talent-ideal/semantic_release&talent-ideal/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
+    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&talent-insights/semantic_release&talent-insights/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
         <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
