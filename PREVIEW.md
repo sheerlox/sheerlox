@@ -46,16 +46,16 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (4 days ago)
 - [talent-insights/semantic-release-hex](https://github.com/talent-insights/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (4 months ago)
 - [talent-insights/semantic_release](https://github.com/talent-insights/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 months ago)
 - [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (4 months ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (4 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (4 months ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (4 months ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (4 months ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (4 months ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (5 months ago)
+- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (5 months ago)
+- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (5 months ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (5 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (6 months ago)
 - [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (6 months ago)
@@ -69,8 +69,8 @@
 
 #### ⭐ Recent stars
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (2 days ago)
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (3 days ago)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (3 days ago)
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (4 days ago)
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant. (2 weeks ago)
 - [dashbitco/nimble_csv](https://github.com/dashbitco/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir (3 weeks ago)
 - [wakatime/browser-wakatime](https://github.com/wakatime/browser-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity. (3 weeks ago)
