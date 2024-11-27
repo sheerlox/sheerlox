@@ -46,13 +46,13 @@
 
 #### 🫶 Recent contributions
 
-- [cron-reproductions/918](https://github.com/cron-reproductions/918) -  (1 week ago)
+- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (1 day ago)
+- [cron-reproductions/918](https://github.com/cron-reproductions/918) -  (2 weeks ago)
 - [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (2 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 weeks ago)
-- [talent-insights/semantic-release-hex](https://github.com/talent-insights/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
-- [talent-insights/semantic_release](https://github.com/talent-insights/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (5 months ago)
+- [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
+- [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (5 months ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (5 months ago)
-- [sheerlox/elixir_renovate_demo](https://github.com/sheerlox/elixir_renovate_demo) - A repository showcasing using Renovate on an Elixir project (5 months ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (5 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (5 months ago)
 - [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (5 months ago)
