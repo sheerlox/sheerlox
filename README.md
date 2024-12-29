@@ -47,12 +47,12 @@
 #### 🫶 Recent contributions
 
 - [sheerlox-repros/renovate-pr-33326](https://github.com/sheerlox-repros/renovate-pr-33326) -  (today)
-- [sheerlox/elixir_renovate_demo_lib](https://github.com/sheerlox/elixir_renovate_demo_lib) -  (1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
 - [sheerlox/elixir_renovate_demo_app](https://github.com/sheerlox/elixir_renovate_demo_app) - A repository showcasing using Renovate on an Elixir app (1 day ago)
 - [sheerlox-repros/renovate-pr-33322](https://github.com/sheerlox-repros/renovate-pr-33322) -  (1 day ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 day ago)
 - [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 days ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 day ago)
+- [sheerlox/elixir_renovate_demo_lib](https://github.com/sheerlox/elixir_renovate_demo_lib) -  (1 day ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 days ago)
 - [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 week ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
@@ -83,8 +83,8 @@
 ---
 
 <p align="center">
-    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&unill-io/semantic_release&unill-io/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
-        <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
+    <a href="https://star-history.com/#sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" target="_blank" style="text-decoration: none;">
+        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
 
