@@ -57,8 +57,8 @@
 ---
 
 <p align="center">
-    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/gpg_ex&unill-io/semantic_release&unill-io/semantic-release-hex&Timeline" target="_blank" style="text-decoration: none;">
-        <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
+    <a href="https://star-history.com/#sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" target="_blank" style="text-decoration: none;">
+        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
 
