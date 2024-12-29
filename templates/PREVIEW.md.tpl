@@ -21,13 +21,13 @@
 ---
 
 <ul>
-    <li>👴 passionate about building stuff on computers for 13+ years (2010)</li>
-    <li>🗣 Javascript/Typescript Lead Developer for 8+ years (2015)</li>
-    <li>🧑‍💻 strong inclination toward backend development</li>
-    <li>💜 currently learning Elixir</li>
-    <li>👷 currently building <a href="https://github.com/unill-io">@unill-io</a></li>
-    <li>🧑‍🏫 part-time university instructor</li>
-    <li>🫶 low-key FOSS maintainer</li>
+    <li>👴 <strong>Passionate Developer</strong> with <strong>14+ years</strong> of experience building software (since 2010)</li>
+    <li>🫶 <strong>FOSS Maintainer</strong> who loves contributing to open-source projects</li>
+    <li>💜 <strong>Embracing Elixir</strong> for all new projects since 2023</li>
+    <li>👷 <strong>CEO & Founder</strong> <a href="https://github.com/unill-io">@unill-io</a>, unifying skill names to streamline hiring, learning, and analytics (since 2024)</li>
+    <li>👔 Previously <strong>CTO & Co-founder</strong> of an Applicant Tracking System (ATS) startup (2023-2024)</li>
+    <li>🗣&nbsp; Previously <strong>Lead JavaScript/TypeScript Developer</strong> for <strong>8 years</strong> (2015-2023)</li>
+    <li>🧑‍🏫 Part-time <strong>University Instructor</strong>, sharing knowledge and mentoring students in class and online</a></li>
 </ul>
 
 ---
