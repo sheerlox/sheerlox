@@ -45,8 +45,11 @@
 ---
 
 #### 🫶 Recent contributions
-{{range recentContributions 20}}
+{{range recentContributions 30}}
+{{- if .Repo.Name | regexMatch "^(!?sheerlox|sheerlox-repros).*$"}}
+{{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 {{- end}}
 
 #### ⭐ Recent stars

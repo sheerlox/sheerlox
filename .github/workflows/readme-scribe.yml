@@ -15,14 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
-      - uses: "muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948" # v0.1
+      - uses: "sheerlox/readme-scribe2@main"
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: "muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948" # v0.1
+      - uses: "sheerlox/readme-scribe2@main"
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
