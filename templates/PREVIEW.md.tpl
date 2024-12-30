@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 {{range recentContributions 30}}
-{{- if .Repo.Name | regexMatch "^(!?sheerlox|sheerlox-repros).*$"}}
+{{- if .Repo.Name | regexMatch "^(!?sheerlox|sheerlox-repros|cron-reproductions).*$"}}
 {{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
