@@ -46,36 +46,32 @@
 
 #### 🫶 Recent contributions
 
-- [sheerlox-repros/renovate-pr-33326](https://github.com/sheerlox-repros/renovate-pr-33326) -  (1 day ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
-- [sheerlox/semantic-release-hex-demo](https://github.com/sheerlox/semantic-release-hex-demo) - Project to showcase version management of an Elixir project with Conventional Commits using semantic-release-hex (2 days ago)
-- [sheerlox/elixir_renovate_demo_app](https://github.com/sheerlox/elixir_renovate_demo_app) - A repository showcasing using Renovate on an Elixir app (2 days ago)
-- [sheerlox/elixir_renovate_demo_lib](https://github.com/sheerlox/elixir_renovate_demo_lib) -  (2 days ago)
-- [sheerlox-repros/renovate-pr-33322](https://github.com/sheerlox-repros/renovate-pr-33322) -  (2 days ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 days ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 days ago)
-- [sheerlox/nodelix](https://github.com/sheerlox/nodelix) - Seamless Node.js in Elixir (1 week ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
 - [cron-reproductions/918](https://github.com/cron-reproductions/918) -  (1 month ago)
-- [sheerlox/auto_grader](https://github.com/sheerlox/auto_grader) - An automatic assignments grading program written in Elixir (1 month ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project&#39;s base image source (6 months ago)
-- [sheerlox/cron-comparison](https://github.com/sheerlox/cron-comparison) - Automated benchmark of all JavaScript cron implementations (6 months ago)
-- [sheerlox/import-from-esm](https://github.com/sheerlox/import-from-esm) - Almost drop-in &#34;import-from&#34; replacement that supports loading both ESM &amp; CJS modules (6 months ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (6 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (6 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (7 months ago)
-- [sheerlox/gpg_ex](https://github.com/sheerlox/gpg_ex) - A simple wrapper to run GPG commands. (8 months ago)
-- [sheerlox/vscode-settings](https://github.com/sheerlox/vscode-settings) -  (8 months ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (8 months ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (8 months ago)
+- [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (8 months ago)
+- [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (8 months ago)
+- [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query. (10 months ago)
+- [insurgent-lab/is-in-pr-action](https://github.com/insurgent-lab/is-in-pr-action) - Github Action for checking if the current commit is part of a PR (10 months ago)
+- [open-teach-lab/exercice_rebase_interactif](https://github.com/open-teach-lab/exercice_rebase_interactif) -  (11 months ago)
 
 #### ⭐ Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md) (today)
 - [ash-project/igniter](https://github.com/ash-project/igniter) - A code generation and project patching framework. (1 day ago)
 - [podium/elixir-secure-coding](https://github.com/podium/elixir-secure-coding) - An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir (2 days ago)
 - [superfly/flyio-price-calc-ex](https://github.com/superfly/flyio-price-calc-ex) - Prototype pricing calculator/estimator  (2 days ago)
 - [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler. (5 days ago)
 - [OpenGenerativeAI/llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM (1 week ago)
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (2 weeks ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (2 weeks ago)
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models. (3 weeks ago)
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL (1 month ago)
 - [ash-project/ash_oban](https://github.com/ash-project/ash_oban) - The extension for integrating Ash resources with Oban. (1 month ago)
@@ -102,7 +98,13 @@
 
 ---
 
+<!-- <div align="center">
+  <a href="https://holopin.io/@sheerlox" style="display: inline-block;">
+    <img src="https://holopin.me/sheerlox" alt="Pierre Cavin's Holopin badges" height="253px" />
+  </a>
+</div>
 
+--- -->
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" style="text-decoration: none;">
