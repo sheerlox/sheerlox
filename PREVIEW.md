@@ -50,7 +50,6 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 days ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (4 days ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 month ago)
-- [cron-reproductions/918](https://github.com/cron-reproductions/918) -  (1 month ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (6 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (6 months ago)
