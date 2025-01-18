@@ -46,8 +46,8 @@
 
 #### 🫶 Recent contributions
 
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (2 days ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (3 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 week ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - Oban Web live dashboard (1 day ago)
-- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (1 day ago)
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (2 days ago)
-- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (2 days ago)
-- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (3 days ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 days ago)
-- [mrkurt/live-calc](https://github.com/mrkurt/live-calc) (4 days ago)
-- [bartblast/hologram](https://github.com/bartblast/hologram) - Full stack isomorphic Elixir web framework (4 days ago)
-- [awesomeSBOM/awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom) - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles (1 week ago)
-- [alzo-archi/xhpoffice](https://github.com/alzo-archi/xhpoffice) - Write Elixir, generate and run PHP code to leverage rich Microsoft Office libraries in PHP (2 weeks ago)
+- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (1 day ago)
+- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (1 day ago)
+- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (1 day ago)
+- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (2 days ago)
+- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (2 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (3 days ago)
+- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (3 days ago)
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (4 days ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (4 days ago)
+- [mrkurt/live-calc](https://github.com/mrkurt/live-calc) (5 days ago)
 
 ---
 
