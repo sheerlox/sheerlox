@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (4 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (5 days ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (1 day ago)
-- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (2 days ago)
-- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (2 days ago)
-- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (2 days ago)
-- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (3 days ago)
-- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (3 days ago)
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (4 days ago)
-- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (4 days ago)
-- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (5 days ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (5 days ago)
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (1 day ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (2 days ago)
+- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (3 days ago)
+- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (3 days ago)
+- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (3 days ago)
+- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (4 days ago)
+- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (4 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (5 days ago)
+- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (5 days ago)
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (6 days ago)
 
 ---
 
