@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (6 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 week ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (1 day ago)
-- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework. (1 day ago)
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (2 days ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (3 days ago)
-- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (4 days ago)
-- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (4 days ago)
-- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (4 days ago)
-- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (5 days ago)
-- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (5 days ago)
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (6 days ago)
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (2 days ago)
+- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework. (2 days ago)
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (3 days ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (4 days ago)
+- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (5 days ago)
+- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 days ago)
+- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (5 days ago)
+- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (6 days ago)
+- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (6 days ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 week ago)
 
 ---
 
