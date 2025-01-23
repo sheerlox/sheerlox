@@ -54,7 +54,7 @@
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 week ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 week ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 week ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 week ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (7 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (8 months ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (9 months ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (2 days ago)
-- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework. (2 days ago)
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (3 days ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (4 days ago)
-- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (5 days ago)
-- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 days ago)
-- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (5 days ago)
-- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (6 days ago)
-- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (6 days ago)
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 week ago)
+- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (1 day ago)
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (3 days ago)
+- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (3 days ago)
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (4 days ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (5 days ago)
+- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (6 days ago)
+- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (6 days ago)
+- [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (6 days ago)
+- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (1 week ago)
+- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (1 week ago)
 
 ---
 
