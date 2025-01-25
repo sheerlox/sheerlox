@@ -47,8 +47,8 @@
 #### 🫶 Recent contributions
 
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 week ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
-- [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin to publish a hex package (2 weeks ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 weeks ago)
+- [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (2 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (2 days ago)
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (4 days ago)
-- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (4 days ago)
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (5 days ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (6 days ago)
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (1 day ago)
+- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (1 day ago)
+- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (3 days ago)
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (5 days ago)
+- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (5 days ago)
+- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (6 days ago)
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (1 week ago)
 - [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (1 week ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (1 week ago)
 - [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends (1 week ago)
-- [oban-bg/oban_web](https://github.com/oban-bg/oban_web) - 🧭 Oban Web live dashboard (1 week ago)
-- [oban-bg/oban_met](https://github.com/oban-bg/oban_met) - Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban (1 week ago)
 
 ---
 
