@@ -51,8 +51,8 @@
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (2 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 weeks ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (7 months ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (2 days ago)
-- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (3 days ago)
-- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (3 days ago)
-- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (5 days ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) (1 day ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (3 days ago)
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (4 days ago)
+- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (4 days ago)
+- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (6 days ago)
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (1 week ago)
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (1 week ago)
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (1 week ago)
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (1 week ago)
 - [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (1 week ago)
-- [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (1 week ago)
 
 ---
 
