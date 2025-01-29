@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 week ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (2 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 weeks ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (2 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
@@ -64,11 +64,11 @@
 
 #### ⭐ Recent stars
 
-- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) (1 day ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (3 days ago)
-- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (4 days ago)
-- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (4 days ago)
-- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (6 days ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (2 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (4 days ago)
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (5 days ago)
+- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (5 days ago)
+- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (1 week ago)
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (1 week ago)
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (1 week ago)
 - [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (1 week ago)
