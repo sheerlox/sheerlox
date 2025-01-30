@@ -54,9 +54,9 @@
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 weeks ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 weeks ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 weeks ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (7 months ago)
-- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (8 months ago)
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (9 months ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (9 months ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (9 months ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (2 days ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (4 days ago)
-- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (5 days ago)
-- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (5 days ago)
+- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (1 day ago)
+- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (1 day ago)
+- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (1 day ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (3 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (5 days ago)
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (6 days ago)
+- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (6 days ago)
 - [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (1 week ago)
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (1 week ago)
 - [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (1 week ago)
-- [edgurgel/mimic](https://github.com/edgurgel/mimic) - A mocking library for Elixir (1 week ago)
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit (1 week ago)
-- [kulkansecurity/gitxray](https://github.com/kulkansecurity/gitxray) - A multifaceted security tool which leverages Public GitHub REST APIs for OSINT, Forensics, Pentesting and more. (1 week ago)
 
 ---
 
