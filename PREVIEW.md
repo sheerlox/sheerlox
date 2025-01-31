@@ -48,12 +48,12 @@
 
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (2 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 weeks ago)
-- [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (2 weeks ago)
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
-- [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (2 weeks ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (2 weeks ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (2 weeks ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (2 weeks ago)
+- [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (3 weeks ago)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 weeks ago)
+- [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (3 weeks ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (3 weeks ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 weeks ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (7 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (1 day ago)
-- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (1 day ago)
-- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (1 day ago)
-- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (3 days ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (5 days ago)
-- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (6 days ago)
-- [aglundahl/deno_rider](https://github.com/aglundahl/deno_rider) - An embedded JavaScript runtime for Elixir. (6 days ago)
-- [beaver-lodge/charms](https://github.com/beaver-lodge/charms) - Write NIF in Elixir for Elixir (1 week ago)
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. (1 week ago)
-- [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. (1 week ago)
+- [pragdave/earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir (1 day ago)
+- [whitfin/cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations (1 day ago)
+- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. (1 day ago)
+- [chrisgreg/elixir_pdf_tutorial](https://github.com/chrisgreg/elixir_pdf_tutorial) - An example of how to use Rust to parse PDF's in Elixir and LiveView (1 day ago)
+- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (2 days ago)
+- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (2 days ago)
+- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (2 days ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (4 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (6 days ago)
+- [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (1 week ago)
 
 ---
 
