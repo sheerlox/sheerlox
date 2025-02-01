@@ -47,7 +47,7 @@
 #### 🫶 Recent contributions
 
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (2 weeks ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 weeks ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 weeks ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (3 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (3 weeks ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (3 weeks ago)
@@ -64,15 +64,15 @@
 
 #### ⭐ Recent stars
 
-- [pragdave/earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir (1 day ago)
-- [whitfin/cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations (1 day ago)
-- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. (1 day ago)
-- [chrisgreg/elixir_pdf_tutorial](https://github.com/chrisgreg/elixir_pdf_tutorial) - An example of how to use Rust to parse PDF's in Elixir and LiveView (1 day ago)
-- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (2 days ago)
-- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (2 days ago)
-- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (2 days ago)
-- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (4 days ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (6 days ago)
+- [pragdave/earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir (2 days ago)
+- [whitfin/cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations (2 days ago)
+- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. (2 days ago)
+- [chrisgreg/elixir_pdf_tutorial](https://github.com/chrisgreg/elixir_pdf_tutorial) - An example of how to use Rust to parse PDF's in Elixir and LiveView (2 days ago)
+- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (3 days ago)
+- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (3 days ago)
+- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (3 days ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (5 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (1 week ago)
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (1 week ago)
 
 ---
