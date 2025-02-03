@@ -64,14 +64,14 @@
 
 #### ⭐ Recent stars
 
-- [pragdave/earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir (3 days ago)
-- [whitfin/cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations (3 days ago)
-- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. (3 days ago)
-- [chrisgreg/elixir_pdf_tutorial](https://github.com/chrisgreg/elixir_pdf_tutorial) - An example of how to use Rust to parse PDF's in Elixir and LiveView (3 days ago)
-- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (4 days ago)
-- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (4 days ago)
-- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (4 days ago)
-- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (6 days ago)
+- [pragdave/earmark](https://github.com/pragdave/earmark) - Markdown parser for Elixir (4 days ago)
+- [whitfin/cachex](https://github.com/whitfin/cachex) - A powerful caching library for Elixir with support for transactions, fallbacks and expirations (4 days ago)
+- [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages. (4 days ago)
+- [chrisgreg/elixir_pdf_tutorial](https://github.com/chrisgreg/elixir_pdf_tutorial) - An example of how to use Rust to parse PDF's in Elixir and LiveView (4 days ago)
+- [elixir-lang/ex_doc](https://github.com/elixir-lang/ex_doc) - ExDoc produces HTML and EPUB documentation for Elixir projects (5 days ago)
+- [mrdotb/live_react](https://github.com/mrdotb/live_react) - ✨ React inside Phoenix LiveView with seamless end-to-end reactivity (5 days ago)
+- [lalabuy948/PhoenixAnalytics](https://github.com/lalabuy948/PhoenixAnalytics) - 📊 Plug and play analytics for Phoenix applications. (5 days ago)
+- [m0w0kuma/ROFL](https://github.com/m0w0kuma/ROFL) - ROFL is a tool for parsing and extracting information from League of Legends replay file. (1 week ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) (1 week ago)
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool. (1 week ago)
 
