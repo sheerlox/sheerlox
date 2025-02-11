@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (today)
+- [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 day ago)
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (3 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
-- [magic-inspector/auto-inspector](https://github.com/magic-inspector/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest (3 days ago)
-- [unifiedjs/collective](https://github.com/unifiedjs/collective) - How the unified collective is governed (4 days ago)
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (4 days ago)
-- [besughi/elixir-k6](https://github.com/besughi/elixir-k6) - Quick and painless load testing for Elixir applications. (4 days ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (4 days ago)
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers. (5 days ago)
-- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps. (6 days ago)
-- [beam-community/ex_machina](https://github.com/beam-community/ex_machina) - Create test data for Elixir applications (6 days ago)
-- [elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans) - Elixir learning exercises (6 days ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (1 day ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
+- [magic-inspector/auto-inspector](https://github.com/magic-inspector/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest (4 days ago)
+- [unifiedjs/collective](https://github.com/unifiedjs/collective) - How the unified collective is governed (5 days ago)
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (5 days ago)
+- [besughi/elixir-k6](https://github.com/besughi/elixir-k6) - Quick and painless load testing for Elixir applications. (5 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (5 days ago)
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers. (6 days ago)
+- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps. (1 week ago)
+- [beam-community/ex_machina](https://github.com/beam-community/ex_machina) - Create test data for Elixir applications (1 week ago)
 
 ---
 
