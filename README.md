@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (4 days ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (5 days ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 month ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 month ago)
@@ -58,15 +58,15 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (8 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (9 months ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (10 months ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (10 months ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (10 months ago)
 
 #### ⭐ Recent stars
 
-- [akoutmos/prom_ex](https://github.com/akoutmos/prom_ex) - An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards (4 days ago)
-- [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - Jido Actions and Workflows for interacting with LLMs (4 days ago)
-- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (4 days ago)
+- [akoutmos/prom_ex](https://github.com/akoutmos/prom_ex) - An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards (5 days ago)
+- [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - Jido Actions and Workflows for interacting with LLMs (5 days ago)
+- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (5 days ago)
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (1 week ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [agentlabs-dev/auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest (1 week ago)
