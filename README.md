@@ -46,15 +46,16 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (2 days ago)
+- [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (1 day ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 days ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 week ago)
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 month ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
+- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 month ago)
 - [unill-io/semantic-release-hex](https://github.com/unill-io/semantic-release-hex) - 🚢 semantic-release plugin for Elixir projects (1 month ago)
 - [unill-io/semantic_release](https://github.com/unill-io/semantic_release) - 📦🚀 Fully automated version management and package publishing for Elixir (1 month ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
-- [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (8 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
@@ -64,7 +65,7 @@
 
 #### ⭐ Recent stars
 
-- [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks (3 days ago)
+- [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks (4 days ago)
 - [akoutmos/prom_ex](https://github.com/akoutmos/prom_ex) - An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards (1 week ago)
 - [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - Jido Actions and Workflows for interacting with LLMs (1 week ago)
 - [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. (1 week ago)
