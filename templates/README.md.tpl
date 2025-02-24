@@ -24,8 +24,8 @@
     <li>👴 <strong>Passionate Developer</strong> with <strong>14+ years</strong> of experience building software (since 2010)</li>
     <li>🫶 <strong>FOSS Maintainer</strong> who loves contributing to open-source projects</li>
     <li>💜 <strong>Embracing Elixir</strong> for all new projects since 2023</li>
-    <li>👷 <strong>CEO & Founder</strong> <a href="https://github.com/unill-io">@unill-io</a>, unifying skill names to streamline hiring, learning, and analytics (since 2024)</li>
-    <li>👔 Previously <strong>CTO & Co-founder</strong> of an Applicant Tracking System (ATS) startup (2023-2024)</li>
+    <li>👷 <strong>Founder</strong> <a href="https://github.com/unill-io">@unill-io</a>, unifying skill names to streamline hiring, learning, and analytics (since 2024)</li>
+    <li>👔 Previously <strong>Technical Co-founder</strong> of an Applicant Tracking System (ATS) startup (2023-2024)</li>
     <li>🗣&nbsp; Previously <strong>Lead JavaScript/TypeScript Developer</strong> for <strong>8 years</strong> (2015-2023)</li>
     <li>🧑‍🏫 Part-time <strong>University Instructor</strong>, sharing knowledge and mentoring students in class and online</a></li>
 </ul>
@@ -60,8 +60,8 @@
 ---
 
 <p align="center">
-    <a href="https://star-history.com/#sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" target="_blank" style="text-decoration: none;">
-        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/elixir_renovate_demo_app,unill-io/semantic_release,unill-io/semantic-release-hex&type=Date" alt="Pierre Cavin's Star History Chart">
+    <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/semantic_release&sheerlox/semantic-release-hex&sheerlox/elixir_renovate_demo_app&Date" target="_blank" style="text-decoration: none;">
+        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/semantic_release,sheerlox/semantic-release-hex,sheerlox/elixir_renovate_demo_app&type=Date" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
 
