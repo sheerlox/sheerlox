@@ -61,7 +61,7 @@
 
 <p align="center">
     <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/semantic_release&sheerlox/semantic-release-hex&sheerlox/elixir_renovate_demo_app&Date" target="_blank" style="text-decoration: none;">
-        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/semantic_release,sheerlox/semantic-release-hex,sheerlox/elixir_renovate_demo_app&type=Date" alt="Pierre Cavin's Star History Chart">
+        <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
 
