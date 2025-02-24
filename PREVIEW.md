@@ -52,8 +52,8 @@
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 month ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
-- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 month ago)
+- [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (8 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
@@ -78,7 +78,7 @@
 
 <p align="center">
     <a href="https://star-history.com/#sheerlox/import-from-esm&sheerlox/nodelix&sheerlox/semantic_release&sheerlox/semantic-release-hex&sheerlox/elixir_renovate_demo_app&Date" target="_blank" style="text-decoration: none;">
-        <img src="https://api.star-history.com/svg?repos=sheerlox/import-from-esm,sheerlox/nodelix,sheerlox/semantic_release,sheerlox/semantic-release-hex,sheerlox/elixir_renovate_demo_app&type=Date" alt="Pierre Cavin's Star History Chart">
+        <img src="assets/star-history.svg" alt="Pierre Cavin's Star History Chart">
     </a>
 </p>
 
