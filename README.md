@@ -46,14 +46,14 @@
 
 #### 🫶 Recent contributions
 
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (3 days ago)
-- [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (4 days ago)
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (6 days ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (4 days ago)
+- [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (5 days ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (1 week ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (2 weeks ago)
 - [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (1 month ago)
-- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (1 month ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (1 month ago)
+- [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 month ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (8 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (9 months ago)
@@ -63,8 +63,9 @@
 
 #### ⭐ Recent stars
 
-- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 day ago)
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers (2 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 day ago)
+- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (2 days ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers (3 days ago)
 - [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks (1 week ago)
 - [akoutmos/prom_ex](https://github.com/akoutmos/prom_ex) - An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards (1 week ago)
 - [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - Jido Actions and Workflows for interacting with LLMs (1 week ago)
@@ -72,7 +73,6 @@
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more (2 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [agentlabs-dev/auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest (2 weeks ago)
-- [unifiedjs/collective](https://github.com/unifiedjs/collective) - How the unified collective is governed (2 weeks ago)
 
 ---
 
