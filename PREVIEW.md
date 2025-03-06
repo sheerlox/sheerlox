@@ -59,13 +59,13 @@
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (10 months ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (10 months ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (10 months ago)
-- [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (10 months ago)
+- [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (11 months ago)
 
 #### ⭐ Recent stars
 
-- [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations. (2 days ago)
-- [salim4n/quick-rag-typescript-qdrant](https://github.com/salim4n/quick-rag-typescript-qdrant) (5 days ago)
-- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (6 days ago)
+- [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations. (3 days ago)
+- [salim4n/quick-rag-typescript-qdrant](https://github.com/salim4n/quick-rag-typescript-qdrant) (6 days ago)
+- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (1 week ago)
 - [zblanco/piper](https://github.com/zblanco/piper) - A minimal tool for building and evaluating Dataflow graphs of dependent steps. (1 week ago)
 - [bitwalker/libgraph](https://github.com/bitwalker/libgraph) - A graph data structure library for Elixir projects (1 week ago)
 - [The-Pocket-World/Pocket-Flow-Framework](https://github.com/The-Pocket-World/Pocket-Flow-Framework) - Enable LLMs to Program Themselves. (1 week ago)
