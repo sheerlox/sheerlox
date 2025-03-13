@@ -63,16 +63,16 @@
 
 #### ⭐ Recent stars
 
-- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focusing on the development of AI (2 days ago)
-- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (5 days ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (5 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 day ago)
+- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focusing on the development of AI (3 days ago)
+- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (6 days ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations. (1 week ago)
 - [salim4n/quick-rag-typescript-qdrant](https://github.com/salim4n/quick-rag-typescript-qdrant) (1 week ago)
-- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (1 week ago)
+- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (2 weeks ago)
 - [zblanco/piper](https://github.com/zblanco/piper) - A minimal tool for building and evaluating Dataflow graphs of dependent steps. (2 weeks ago)
 - [bitwalker/libgraph](https://github.com/bitwalker/libgraph) - A graph data structure library for Elixir projects (2 weeks ago)
-- [The-Pocket-World/Pocket-Flow-Framework](https://github.com/The-Pocket-World/Pocket-Flow-Framework) - Enable LLMs to Program Themselves. (2 weeks ago)
 
 ---
 
