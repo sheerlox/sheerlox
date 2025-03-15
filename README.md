@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (2 weeks ago)
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (3 weeks ago)
 - [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (3 weeks ago)
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (3 weeks ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (1 month ago)
@@ -63,8 +63,8 @@
 
 #### ⭐ Recent stars
 
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (2 days ago)
-- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focusing on the development of AI (4 days ago)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (3 days ago)
+- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focusing on the development of AI (5 days ago)
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (1 week ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
