@@ -57,7 +57,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 months ago)
 - [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (9 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (10 months ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (10 months ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (11 months ago)
 - [insurgent-lab/subpaths-test](https://github.com/insurgent-lab/subpaths-test) - Package that exposes various subpath-accessible modules for testing purposes. (11 months ago)
 - [open-teach-lab/TP_Mock_starter](https://github.com/open-teach-lab/TP_Mock_starter) -  (11 months ago)
 
@@ -70,7 +70,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations. (2 weeks ago)
 - [salim4n/quick-rag-typescript-qdrant](https://github.com/salim4n/quick-rag-typescript-qdrant) (2 weeks ago)
-- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (2 weeks ago)
+- [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (3 weeks ago)
 - [zblanco/piper](https://github.com/zblanco/piper) - A minimal tool for building and evaluating Dataflow graphs of dependent steps. (3 weeks ago)
 - [bitwalker/libgraph](https://github.com/bitwalker/libgraph) - A graph data structure library for Elixir projects (3 weeks ago)
 
