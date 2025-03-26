@@ -63,7 +63,7 @@
 
 #### ⭐ Recent stars
 
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 week ago)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (2 weeks ago)
 - [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - arious research and development projects focus on the development of AI in TypeScript (2 weeks ago)
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (2 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 weeks ago)
@@ -71,8 +71,8 @@
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations. (3 weeks ago)
 - [salim4n/quick-rag-typescript-qdrant](https://github.com/salim4n/quick-rag-typescript-qdrant) (3 weeks ago)
 - [context-labs/autodelve](https://github.com/context-labs/autodelve) - A simple AI-powered Discord to answer questions based on a set of documents. (3 weeks ago)
-- [zblanco/piper](https://github.com/zblanco/piper) - A minimal tool for building and evaluating Dataflow graphs of dependent steps. (3 weeks ago)
-- [bitwalker/libgraph](https://github.com/bitwalker/libgraph) - A graph data structure library for Elixir projects (3 weeks ago)
+- [zblanco/piper](https://github.com/zblanco/piper) - A minimal tool for building and evaluating Dataflow graphs of dependent steps. (4 weeks ago)
+- [bitwalker/libgraph](https://github.com/bitwalker/libgraph) - A graph data structure library for Elixir projects (4 weeks ago)
 
 ---
 
