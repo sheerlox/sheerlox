@@ -63,13 +63,13 @@
 
 #### ⭐ Recent stars
 
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (5 days ago)
-- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (5 days ago)
-- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (5 days ago)
-- [phcurado/daisy_ui_components](https://github.com/phcurado/daisy_ui_components) - 🌼 Phoenix LiveView + DaisyUI (6 days ago)
-- [leandrocp/mdex](https://github.com/leandrocp/mdex) - Fast and extensible Markdown for Elixir to HTML. Compliant with CommonMark spec. Formats to HTML, JSON, and XML. Built on top of comrak, ammonia, and atumnus. (6 days ago)
-- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (6 days ago)
-- [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun (6 days ago)
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (6 days ago)
+- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (6 days ago)
+- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (6 days ago)
+- [phcurado/daisy_ui_components](https://github.com/phcurado/daisy_ui_components) - 🌼 Phoenix LiveView + DaisyUI (1 week ago)
+- [leandrocp/mdex](https://github.com/leandrocp/mdex) - Fast and extensible Markdown for Elixir to HTML. Compliant with CommonMark spec. Formats to HTML, JSON, and XML. Built on top of comrak, ammonia, and atumnus. (1 week ago)
+- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (1 week ago)
+- [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun (1 week ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 month ago)
 - [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (1 month ago)
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (1 month ago)
