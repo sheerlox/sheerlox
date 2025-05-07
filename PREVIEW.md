@@ -60,9 +60,9 @@
 
 #### ⭐ Recent stars
 
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (4 weeks ago)
-- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (4 weeks ago)
-- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (4 weeks ago)
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (1 month ago)
+- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (1 month ago)
+- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (1 month ago)
 - [phcurado/daisy_ui_components](https://github.com/phcurado/daisy_ui_components) - 🌼 Phoenix LiveView + DaisyUI (1 month ago)
 - [leandrocp/mdex](https://github.com/leandrocp/mdex) - Fast and Extensible Markdown for Elixir. Compliant with CommonMark spec. Formats to HTML, JSON, and XML. Built on top of comrak, ammonia, and autumnus. (1 month ago)
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (1 month ago)
