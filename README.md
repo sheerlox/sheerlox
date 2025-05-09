@@ -55,7 +55,7 @@
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (3 months ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (3 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (3 months ago)
-- [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (10 months ago)
+- [containerbase/base](https://github.com/containerbase/base) - The containerbase project's base image source (11 months ago)
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications. (1 year ago)
 
 #### ⭐ Recent stars
@@ -68,7 +68,7 @@
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (1 month ago)
 - [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun (1 month ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 month ago)
-- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (1 month ago)
+- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (2 months ago)
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows (2 months ago)
 
 ---
