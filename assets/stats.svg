@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Pierre Cavin's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits in 2025 : 764, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 25</desc>
+        <title id="titleId">Pierre Cavin's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 30, Total Commits in 2025 : 727, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.29023503995262;
+        stroke-dashoffset: 62.83435512499017;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >764</text>
+      >727</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
