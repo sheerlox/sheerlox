@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pierre Cavin's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits in 2025 : 683, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits in 2025 : 683, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >24</text>
+      >23</text>
     </g>
   </g>
     </svg>
