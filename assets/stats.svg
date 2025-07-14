@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pierre Cavin's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 31, Total Commits in 2025 : 572, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 31, Total Commits in 2025 : 567, Total PRs Merged: 242, Total Issues: 216, Total Discussions Answered: 9, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 65.12873171744663;
+        stroke-dashoffset: 65.24846174684497;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >572</text>
+      >567</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
