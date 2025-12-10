@@ -46,7 +46,7 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (7 months ago)
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (8 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (8 months ago)
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (9 months ago)
 - [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (9 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent stars
 
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (2 days ago)
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (3 days ago)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (8 months ago)
 - [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (8 months ago)
 - [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (8 months ago)
