@@ -51,14 +51,14 @@
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (9 months ago)
 - [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (9 months ago)
 - [insurgent-lab/.github](https://github.com/insurgent-lab/.github) - Common configuration for the Insurgent Lab organization (10 months ago)
-- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (10 months ago)
+- [qgadrian/elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 🪝 Add git hooks to Elixir projects (11 months ago)
 - [insurgent-lab/conventional-changelog-preset](https://github.com/insurgent-lab/conventional-changelog-preset) - conventional-changelog preset (11 months ago)
 - [insurgent-lab/commitlint-config](https://github.com/insurgent-lab/commitlint-config) - commitlint config for @insurgent/conventional-changelog-preset (11 months ago)
 - [insurgent-lab/javascript-lib-template](https://github.com/insurgent-lab/javascript-lib-template) - A GitHub repository template for Open Source (ESM) JavaScript libraries following best practices. (11 months ago)
 
 #### ⭐ Recent stars
 
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (3 days ago)
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (4 days ago)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (8 months ago)
 - [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (8 months ago)
 - [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (8 months ago)
