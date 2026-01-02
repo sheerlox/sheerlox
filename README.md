@@ -59,9 +59,9 @@
 #### ⭐ Recent stars
 
 - [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (3 weeks ago)
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (8 months ago)
-- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (8 months ago)
-- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (8 months ago)
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (9 months ago)
+- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (9 months ago)
+- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (9 months ago)
 - [phcurado/daisy_ui_components](https://github.com/phcurado/daisy_ui_components) - 🌼 Phoenix LiveView + DaisyUI (9 months ago)
 - [leandrocp/mdex](https://github.com/leandrocp/mdex) - Fast and Extensible Markdown for Elixir. Compliant with CommonMark spec. Formats to HTML, JSON, and XML. Built on top of comrak, ammonia, and autumnus. (9 months ago)
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (9 months ago)
