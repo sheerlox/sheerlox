@@ -63,7 +63,7 @@
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (10 months ago)
 - [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun (10 months ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (10 months ago)
-- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (10 months ago)
+- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (11 months ago)
 
 ---
 
