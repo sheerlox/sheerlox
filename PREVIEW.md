@@ -46,23 +46,19 @@
 
 #### 🫶 Recent contributions
 
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS. (10 months ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (10 months ago)
-- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions (1 year ago)
-- [Dolibarr/dolibarr-docker](https://github.com/Dolibarr/dolibarr-docker) - Official Dolibarr docker images. Based on the work of Garcia MICHEL (tuxgasy) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (2 months ago)
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (10 months ago)
-- [cloudwalk/hermes-mcp](https://github.com/cloudwalk/hermes-mcp) - Elixir Model Context Protocol (MCP) SDK (10 months ago)
-- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (10 months ago)
-- [phcurado/daisy_ui_components](https://github.com/phcurado/daisy_ui_components) - 🌼 Phoenix LiveView + DaisyUI (10 months ago)
-- [leandrocp/mdex](https://github.com/leandrocp/mdex) - Fast and Extensible Markdown for Elixir. Compliant with CommonMark spec. Formats to HTML, JSON, and XML. Built on top of comrak, ammonia, and autumnus. (10 months ago)
-- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (10 months ago)
-- [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun (10 months ago)
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (11 months ago)
-- [Mathieuka/AI-research-and-development](https://github.com/Mathieuka/AI-research-and-development) - Various research and development projects focus on the development of AI in TypeScript (11 months ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (2 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (4 days ago)
+- [Amal-David/docingest](https://github.com/Amal-David/docingest) - Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents. (1 week ago)
+- [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. (1 month ago)
+- [enercoop/enda](https://github.com/enercoop/enda) (2 months ago)
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services (7 months ago)
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (11 months ago)
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (2 years ago)
+- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (2 years ago)
 
 ---
 
