@@ -49,9 +49,9 @@
 
 #### ⭐ Recent stars
 
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (3 days ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (5 days ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (4 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (5 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (6 days ago)
 - [Amal-David/docingest](https://github.com/Amal-David/docingest) - Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents. (1 week ago)
 - [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. (1 month ago)
 - [enercoop/enda](https://github.com/enercoop/enda) (2 months ago)
