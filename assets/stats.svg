@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pierre Cavin's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 34, Total Commits in 2026 : 55, Total PRs Merged: 244, Total Issues: 256, Total Discussions Answered: 9, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 34, Total Commits in 2026 : 64, Total PRs Merged: 248, Total Issues: 275, Total Discussions Answered: 9, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.86196132452086;
+        stroke-dashoffset: 94.65871504940222;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >55</text>
+      >64</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >244</text>
+      >248</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >256</text>
+      >275</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
