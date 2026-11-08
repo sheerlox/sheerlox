@@ -49,16 +49,16 @@
 
 #### ⭐ Recent stars
 
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (4 days ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (5 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (6 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (5 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (6 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
 - [Amal-David/docingest](https://github.com/Amal-David/docingest) - Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents. (1 week ago)
 - [ryanbr/noop](https://github.com/ryanbr/noop) - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription. (1 month ago)
 - [enercoop/enda](https://github.com/enercoop/enda) (2 months ago)
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services (7 months ago)
 - [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback (11 months ago)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.  (2 years ago)
-- [kEND/mcp_sse](https://github.com/kEND/mcp_sse) - An elixir Model Context Protocal (MCP) server library which uses the Server-Sent Events (SSE) transport type (2 years ago)
 
 ---
 
